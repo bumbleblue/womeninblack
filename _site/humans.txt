@@ -1,0 +1,19 @@
+/* TEAM */
+
+Name: flapperleenie
+Site: http://eileenwagner.xyz
+Twitter: @flapperleenie
+
+
+/* THANKS */
+
+Name: Moritz »mo.« Sauer
+Theme: http://phlow.github.io/feeling-responsive/
+
+
+/* SITE */
+
+Last Updated: 2015/12/13
+Standards: HTML5, CSS3
+Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
+Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal

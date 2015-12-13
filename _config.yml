@@ -1,14 +1,158 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/womeninblack" # the subpath of your site, e.g. /blog/
-url: "http://eileenwagner.xyz" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+title: "Women In Black"
 
-# Build settings
+# The slogan describes your website and is used on homepage in <title> and other important places
+slogan: "Women In Black, Berlin's Barbershop Chorus"
+
+# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
+description: "Women In Black is a women's barbershop chorus based in Berlin."
+
+# Main author of the website
+author: flapperleenie
+
+# This URL is the main address for absolute links. Don't include a slash at the end.
+#
+url: 'http://eileenwagner.xyz/womeninblack'
+baseurl: ''
+
+# This is for the editing function in _/includes/improve_content
+# Leave it empty if your site is not on GitHub/GitHub Pages
+# improve_content: https://github.com/...
+
+# This URL points directly to the images directory making
+# things easier to link to images in posts and templates. It needs a slash at the end.
+#
+# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
+# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
+#
+urlimg: 'http://eileenwagner.xyz/womeninblack/images/'
+
+
+# Logo size is 600x80 pixels
+logo: "logo.png"
+
+
+# Paginates all X entries
+paginate: 5
+
+
+# Pagination path › Important for blog page in /blog/ to work
+paginate_path: "blog/page:num"
+
+
+# Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
+permalink: /:title/
+highlight: pygments
+excerpt_separator: "<!--more-->"
+include: ['.htaccess']
+# Exclude these files from your production _site
+exclude:
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - INSTALL.md
+
+# Used › default.html front-matter and compress.html
+# Options › http://jch.penibelst.de
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  profile: false
+  ignore:
+    envs: [development]
+
+# The language setting is used in /includes/header.html for html-settings
+language: "de"
+
+# Default Settings
+defaults:
+  -
+    scope:
+      path: "" 				# an empty string here means all files in the project
+      type: "pages"
+    values:
+      show_meta: false 	# Hide metadata for all pages
+      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      comments: false
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      show_meta: true   # Show metadata for all posts
+      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      comments: true
+  -
+    scope:
+      path: _posts/en
+    values:
+      layout: default
+      lang: en
+  -
+    scope:
+      path: _posts/de
+    values:
+      layout: default
+      lang: de
+
+
+#     _____ __________
+#    / ___// ____/ __ \
+#    \__ \/ __/ / / / /
+#   ___/ / /___/ /_/ /
+#  /____/_____/\____/    Verify Website to Webmaster Tools
+
+#google_author:             "https://plus.google.com/u/0/118311555303973066167"
+#google_site_verification:  "Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ"
+
+
+
+#       ______            _
+#      / ____/___ __   __(_)________  ____  _____
+#     / /_  / __ `/ | / / / ___/ __ \/ __ \/ ___/
+#    / __/ / /_/ /| |/ / / /__/ /_/ / / / (__  )
+#   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
+#                                                 More information » https://mathiasbynens.be/notes/touch-icons
+
+favicon-32x32:                          "favicon-32x32.png"
+touch-icon-192x192:                     "icon-144x144.png"
+apple-touch-icon-180x180-precomposed:   "apple-touch-icon-180x180-precomposed.png"
+apple-touch-icon-152x152-precomposed:   "apple-touch-icon-152x152-precomposed.png"
+apple-touch-icon-144x144-precomposed:   "apple-touch-icon-144x144-precomposed.png"
+apple-touch-icon-120x120-precomposed:   "apple-touch-icon-120x120-precomposed.png"
+apple-touch-icon-114x114-precomposed:   "apple-touch-icon-114x114-precomposed.png"
+apple-touch-icon-76x76-precomposed:     "apple-touch-icon-76x76-precomposed.png"
+apple-touch-icon-72x72-precomposed:     "apple-touch-icon-72x72-precomposed.png"
+apple-touch-icon-precomposed:           "apple-touch-icon-precomposed.png"
+msapplication_tileimage:                "icon-144x144.png"               # Size 144x144
+msapplication_tilecolor:                "#fabb00"
+
+
+# Facebook-Optimization › http://j.mp/fb_optimize
+
+#og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
+og_locale:                          "en_EN"
+og_type:                            "website"
+og_title:                           "Women In Black"
+og_description:                     "Berlin's Barbershop Chorus"
+# og_url:                           ""
+# og_site_name:                     ""
+
+
+# used in _includes/comments
+disqus_shortname: womeninblackchorus
+
+
+#      _____
+#     / ___/____ ___________
+#     \__ \/ __ `/ ___/ ___/
+#    ___/ / /_/ (__  |__  )     More › http://sass-lang.com/
+#   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
+#
+
+sass:
+    sass_dir: _sass
+    style: :compressed

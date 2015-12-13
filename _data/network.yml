@@ -1,0 +1,9 @@
+- menu_name: "Quick Links"
+
+- name: "Contact"
+  url: "/contact/"
+  title: "Contact"
+
+- name: "sitemap.xml"
+  url: "/sitemap.xml"
+  title: "Sitemap for Google Webmaster Tools"

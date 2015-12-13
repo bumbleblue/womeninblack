@@ -1,42 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 16 Sep 2015 18:27:59 +0200</pubDate>
-    <lastBuildDate>Wed, 16 Sep 2015 18:27:59 +0200</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+	<channel>
+		<title>Women In Black</title>
+		<description>Women In Black is a women&#39;s barbershop chorus based in Berlin.</description>
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Launching our new website!</title>
+				<link>http://localhost:4000/launch/</link>
+				<pubDate>Wed, 30 Dec 2015 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;This is the new website!&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 16 Sep 2015 20:04:45 +0200</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/09/16/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/09/16/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-  </channel>
+				<guid isPermaLink="true">http://localhost:4000/launch/</guid>
+			</item>
+		
+			<item>
+				<title>Coaching with Sharon and Berry Towner</title>
+				<link>http://localhost:4000/sharonberry/</link>
+				<pubDate>Sat, 07 Nov 2015 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;… and now we just need someone to write about them!&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/sharonberry/</guid>
+			</item>
+		
+			<item>
+				<title>Women in Black empfängt Herrenbesuch</title>
+				<link>http://localhost:4000/herrenbesuch/</link>
+				<pubDate>Wed, 10 Dec 2014 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Women in Black empfängt Herrenbesuch - der Name war Programm bei dem gemeinsamen Barbershop-Konzert des Berliner Frauenchores Women in Black und des Münchner Männerchores errenbesuch am 10. Dezember 2014 in der American Church in Berlin. Die Damen unter der Leitung der kurzfristig eingesprungenen Francis Schmutzler begeisterten die rund 250 Zuschauer im ausverkauften Haus mit mitreißenden Barbershop-Klängen, während die Herren unter Hans-Jürgen Wieneke auf ihre nicht nur in der Branche bereits bekannte charmant-amüsante Art die Herzen der Konzertgäste eroberten. &lt;/p&gt;
+
+&lt;p&gt;Besondere Glanzlichter des von Kerstin Greaves vom Quartett Connections moderierten Abends waren die Auftritte der Berliner Quartette The Bees’ Knees und Connections und der Münchner Quartette Liedhaber und Rosenkavaliere. Am Rande sei erwähnt, dass Herrenbesuch sich auch für Filmaufnahmen für die Helene-Fischer-Show 2014 in der Bundeshauptstadt aufhielt. Kein Wunder, dass es beim Afterglow rund um die American Church in Berlin hieß: „Atemlos!“&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/herrenbesuch/</guid>
+			</item>
+		
+			<item>
+				<title>We&#39;re on Deutschland Radio!</title>
+				<link>http://localhost:4000/deutschlandradio/</link>
+				<pubDate>Fri, 13 Jun 2014 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;We were featured on Deutschlandradio as a &lt;a href=&quot;http://www.deutschlandradiokultur.de/chor-der-woche-leiblich-und-weiblich.1153.de.html?dram:article_id=289049&quot;&gt;Choir of the Week&lt;/a&gt; in June.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/deutschlandradio/</guid>
+			</item>
+		
+			<item>
+				<title>Berliner Barbershop-Chor erhält „Crescendo-Preis“</title>
+				<link>http://localhost:4000/crescendo-preis/</link>
+				<pubDate>Sun, 23 Mar 2014 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Der Berliner Barbershop-Chor “Women in Black” ist bei einem bundesweiten Chorwettbewerb in Dortmund mit dem „Crescendo-Preis“ geehrt worden. Der Frauenchor unter der Leitung des ehemaligen stellvertretenden Direktors der John-F.-Kennedy-Schule in Berlin, Steven Hepner, trat im März beim Barbershop Musikfestival 2014 gegen elf Chöre aus Deutschland an und wurde für seine Leistungssteigerung seit dem letzten Wettbewerb vor zwei Jahren ausgezeichnet. “Wir sind sehr glücklich und hochmotiviert weiterzumachen”, sagte Hepner nach der Entscheidung der Jury am Samstag, dem 8. März 2014, in Dortmund.&lt;/p&gt;
+
+&lt;p&gt;Der deutsch-amerikanische Chor erreichte bei dem Barbershop Musikfestival 2014 im Konzerthaus Dortmund 65 Prozent in der Gesamtwertung, die sich aus den Kategorien Musik, Präsentation und Gesang zusammensetzt. Die 23 Sängerinnen zwischen 22 und 68 Jahren des Chores, der seit knapp drei Jahren besteht, steigerten sich damit um 7,4 Prozentpunkte gegenüber dem Ergebnis vom Frühling 2012 und belegten in der Gesamtwertung den zehnten Platz. Sieger des Wettbewerbs wurde „Ladies First“, ein Frauenchor aus Dortmund mit 80,2 Prozent, dicht gefolgt von den „Harmunichs“, einem ebenfalls weiblichen Chor aus München (78,5 Prozent). Den dritten Platz belegte „Herrenbesuch“, ein Männerchor aus München mit 74,8 Prozent.&lt;/p&gt;
+
+&lt;p&gt;Die Sängerinnen des Berliner Chores „Women in Black“ stammen aus dem Umfeld der Kennedy-Schule in Zehlendorf. Es handelt sich um Eltern, Lehrer, Nachbarn und Freunde der Schulgemeinschaft. Sie sangen bei dem A-Cappella-Kontest im Konzerthaus Dortmund zwei Stücke – ohne Begleitung durch Musikinstrumente. Der Begriff Barbershop kommt aus den USA. Dabei handelt es sich um vierstimmigen A-Cappella-Gesang, der sich Mitte des 19. Jahrhunderts in den USA entwickelte. Diese Musik ist im Laufe der vergangenen 20 Jahre in Deutschland immer populärer geworden, auch aufgrund der Arbeit des 1991 gegründeten Verbandes “BinG! Barbershop in Germany”. Die von internationalen Verbänden ausgebildeten Juroren der Wettbewerbe, die überwiegend aus den USA und Kanada stammen, bewerten neben der musikalischen Qualität auch die künstlerische Darstellung der Chöre. &lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/crescendo-preis/</guid>
+			</item>
+		
+	</channel>
 </rss>

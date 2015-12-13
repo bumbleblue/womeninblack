@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/</id>
+	<title>Women In Black</title>
+	<updated>2015-12-13T22:06:05+01:00</updated>
+
+	<subtitle>Women In Black is a women&#39;s barbershop chorus based in Berlin.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>flapperleenie</name>
+			
+			
+				<email>wibberlin@gmail.com</email>
+			
+			
+				<uri>http://eileenwagner.xyz</uri>
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="2.4.0">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000/launch/</id>
+			<title>Launching our new website!</title>
+			<link href="http://localhost:4000/launch/" rel="alternate" type="text/html" title="Launching our new website!" />
+			<updated>2015-12-30T00:00:00+01:00</updated>
+
+			
+			<summary>We have a new website.</summary>
+			<content type="html" xml:base="http://localhost:4000/launch/">&lt;p&gt;This is the new website!&lt;/p&gt;
+
+</content>
+
+			
+				<category term="news" />
+			
+			
+
+			<published>2015-12-30T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/sharonberry/</id>
+			<title>Coaching with Sharon and Berry Towner</title>
+			<link href="http://localhost:4000/sharonberry/" rel="alternate" type="text/html" title="Coaching with Sharon and Berry Towner" />
+			<updated>2015-11-07T00:00:00+01:00</updated>
+
+			
+			<summary>We had wonderful coachings with Sharon and Berry Towner.</summary>
+			<content type="html" xml:base="http://localhost:4000/sharonberry/">&lt;p&gt;… and now we just need someone to write about them!&lt;/p&gt;
+</content>
+
+			
+				<category term="news" />
+			
+			
+				<category term="coaching" />
+			
+
+			<published>2015-11-07T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/herrenbesuch/</id>
+			<title>Women in Black empfängt Herrenbesuch</title>
+			<link href="http://localhost:4000/herrenbesuch/" rel="alternate" type="text/html" title="Women in Black empfängt Herrenbesuch" />
+			<updated>2014-12-10T00:00:00+01:00</updated>
+
+			
+			<summary>Gemeinsames Konzert der Damen aus Berlin und Herren aus München in der Bundeshauptstadt</summary>
+			<content type="html" xml:base="http://localhost:4000/herrenbesuch/">&lt;p&gt;Women in Black empfängt Herrenbesuch - der Name war Programm bei dem gemeinsamen Barbershop-Konzert des Berliner Frauenchores Women in Black und des Münchner Männerchores errenbesuch am 10. Dezember 2014 in der American Church in Berlin. Die Damen unter der Leitung der kurzfristig eingesprungenen Francis Schmutzler begeisterten die rund 250 Zuschauer im ausverkauften Haus mit mitreißenden Barbershop-Klängen, während die Herren unter Hans-Jürgen Wieneke auf ihre nicht nur in der Branche bereits bekannte charmant-amüsante Art die Herzen der Konzertgäste eroberten. &lt;/p&gt;
+
+&lt;p&gt;Besondere Glanzlichter des von Kerstin Greaves vom Quartett Connections moderierten Abends waren die Auftritte der Berliner Quartette The Bees’ Knees und Connections und der Münchner Quartette Liedhaber und Rosenkavaliere. Am Rande sei erwähnt, dass Herrenbesuch sich auch für Filmaufnahmen für die Helene-Fischer-Show 2014 in der Bundeshauptstadt aufhielt. Kein Wunder, dass es beim Afterglow rund um die American Church in Berlin hieß: „Atemlos!“&lt;/p&gt;
+</content>
+
+			
+				<category term="news" />
+			
+			
+				<category term="concert" />
+			
+
+			<published>2014-12-10T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/deutschlandradio/</id>
+			<title>We&#39;re on Deutschland Radio!</title>
+			<link href="http://localhost:4000/deutschlandradio/" rel="alternate" type="text/html" title="We&#39;re on Deutschland Radio!" />
+			<updated>2014-06-13T00:00:00+02:00</updated>
+
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/deutschlandradio/">&lt;p&gt;We were featured on Deutschlandradio as a &lt;a href=&quot;http://www.deutschlandradiokultur.de/chor-der-woche-leiblich-und-weiblich.1153.de.html?dram:article_id=289049&quot;&gt;Choir of the Week&lt;/a&gt; in June.&lt;/p&gt;
+</content>
+
+			
+				<category term="links" />
+			
+			
+				<category term="radio" />
+			
+
+			<published>2014-06-13T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/crescendo-preis/</id>
+			<title>Berliner Barbershop-Chor erhält „Crescendo-Preis“</title>
+			<link href="http://localhost:4000/crescendo-preis/" rel="alternate" type="text/html" title="Berliner Barbershop-Chor erhält „Crescendo-Preis“" />
+			<updated>2014-03-23T00:00:00+01:00</updated>
+
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/crescendo-preis/">&lt;p&gt;Der Berliner Barbershop-Chor “Women in Black” ist bei einem bundesweiten Chorwettbewerb in Dortmund mit dem „Crescendo-Preis“ geehrt worden. Der Frauenchor unter der Leitung des ehemaligen stellvertretenden Direktors der John-F.-Kennedy-Schule in Berlin, Steven Hepner, trat im März beim Barbershop Musikfestival 2014 gegen elf Chöre aus Deutschland an und wurde für seine Leistungssteigerung seit dem letzten Wettbewerb vor zwei Jahren ausgezeichnet. “Wir sind sehr glücklich und hochmotiviert weiterzumachen”, sagte Hepner nach der Entscheidung der Jury am Samstag, dem 8. März 2014, in Dortmund.&lt;/p&gt;
+
+&lt;p&gt;Der deutsch-amerikanische Chor erreichte bei dem Barbershop Musikfestival 2014 im Konzerthaus Dortmund 65 Prozent in der Gesamtwertung, die sich aus den Kategorien Musik, Präsentation und Gesang zusammensetzt. Die 23 Sängerinnen zwischen 22 und 68 Jahren des Chores, der seit knapp drei Jahren besteht, steigerten sich damit um 7,4 Prozentpunkte gegenüber dem Ergebnis vom Frühling 2012 und belegten in der Gesamtwertung den zehnten Platz. Sieger des Wettbewerbs wurde „Ladies First“, ein Frauenchor aus Dortmund mit 80,2 Prozent, dicht gefolgt von den „Harmunichs“, einem ebenfalls weiblichen Chor aus München (78,5 Prozent). Den dritten Platz belegte „Herrenbesuch“, ein Männerchor aus München mit 74,8 Prozent.&lt;/p&gt;
+
+&lt;p&gt;Die Sängerinnen des Berliner Chores „Women in Black“ stammen aus dem Umfeld der Kennedy-Schule in Zehlendorf. Es handelt sich um Eltern, Lehrer, Nachbarn und Freunde der Schulgemeinschaft. Sie sangen bei dem A-Cappella-Kontest im Konzerthaus Dortmund zwei Stücke – ohne Begleitung durch Musikinstrumente. Der Begriff Barbershop kommt aus den USA. Dabei handelt es sich um vierstimmigen A-Cappella-Gesang, der sich Mitte des 19. Jahrhunderts in den USA entwickelte. Diese Musik ist im Laufe der vergangenen 20 Jahre in Deutschland immer populärer geworden, auch aufgrund der Arbeit des 1991 gegründeten Verbandes “BinG! Barbershop in Germany”. Die von internationalen Verbänden ausgebildeten Juroren der Wettbewerbe, die überwiegend aus den USA und Kanada stammen, bewerten neben der musikalischen Qualität auch die künstlerische Darstellung der Chöre. &lt;/p&gt;
+</content>
+
+			
+				<category term="news" />
+			
+			
+				<category term="prize" />
+			
+
+			<published>2014-03-23T00:00:00+01:00</published>
+		</entry>
+	
+</feed>

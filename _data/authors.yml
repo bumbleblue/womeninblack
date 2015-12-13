@@ -1,0 +1,8 @@
+# Author details
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+flapperleenie: 
+  name: "flapperleenie"
+  siterole: "webmaster, developer, designer" #copywriter
+  uri: http://eileenwagner.xyz
+  email: wibberlin@gmail.com
+  twitter: "@flapperleenie"

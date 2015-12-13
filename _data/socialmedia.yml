@@ -1,0 +1,14 @@
+- name: YouTube
+  url: http://www.youtube.com/wibberlin
+  class: icon-youtube
+  title: "watch our performances!"
+
+- name: Twitter
+  url: http://twitter.com/wibchorus
+  class: icon-twitter
+  title: "follow us!"
+
+- name: Facebook
+  url: http://www.facebook.com/wibberlin
+  class: icon-facebook
+  title: "like us!"
