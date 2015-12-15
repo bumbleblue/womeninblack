@@ -3,10 +3,10 @@ layout: video
 show_meta: false
 title: "Videos"
 subheadline: "WIB on Youtube"
-teaser: "Here are some recordings of our performances!"
+teaser: "Here are some snippets of our performances!"
 permalink: /media/video/
 
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/8NRIcodFHSQ' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
@@ -18,16 +18,12 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0y
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
 video:
-    embedURL: "https://www.youtube.com/embed/WoHxoz_0ykI"
-    contentURL: "https://www.youtube.com/watch?v=WoHxoz_0ykI"
-    thumbnailUrl: "http://img.youtube.com/vi/WoHxoz_0ykI/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/embed/8NRIcodFHSQ"
+    contentURL: "https://www.youtube.com/8NRIcodFHSQ"
+    thumbnailUrl: "http://img.youtube.com/8NRIcodFHSQ/maxresdefault.jpg"
 ---
 <!--more-->
 
-## About the video by Kutiman
+## About the Comedian Harmonists
 
-> Ophir Kutiel, professionally known as Kutiman, is an Israeli musician, composer, producer and animator. He is best known for creating the online music video project, ThruYOU, and a self-titled album. <cite>[Wikipedia](http://en.wikipedia.org/wiki/Kutiman)</cite>
-
-
-
-Source: [Kutiman – Thru You Too – »Give It Up«](https://www.youtube.com/watch?v=WoHxoz_0ykI)
+(This is how to insert videos.)
