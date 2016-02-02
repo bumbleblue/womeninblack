@@ -1,11 +1,11 @@
 ---
 layout: page
 sidebar: right
-title: "Coaching with Sharon and Berry Towner"
+title: "Coaching with Sharon and Barry Towner"
 subheadline: "Coaching"
-name: sharonberry
+name: sharonBarry
 meta_teaser: "Coaching"
-teaser: "We had wonderful coachings with Sharon and Berry Towner."
+teaser: "We had wonderful coachings with Sharon and Barry Towner."
 breadcrumb: true
 header: no
 image:

@@ -1,9 +1,9 @@
 ---
 layout: page
 sidebar: right
-title: "Coaching mit Sharon und Berry Towner"
-subheadline: "Sharon und Berry Towner"
-name: sharonberry
+title: "Coaching mit Sharon und Barry Towner"
+subheadline: "Sharon und Barry Towner"
+name: sharonBarry
 meta_teaser: "Coaching"
 teaser: "Wunderbare Coaches, lehrreiche Coachings"
 header: no
@@ -16,6 +16,6 @@ tags:
     - coaching
 ---
 
-Bei den insgesamt drei Coachings mit Sharen und Berry Towner haben wir wieder viel gelernt.
+Bei den insgesamt drei Coachings mit Sharen und Barry Towner haben wir wieder viel gelernt.
 
 
