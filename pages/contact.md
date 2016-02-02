@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Contact
+title: Kontakt
 meta_title: "Contact form here"
 permalink: /contact/
 ---
 
-We're always happy to hear from you!
+Wir freuen uns sehr, dass Sie Kontakt mit uns aufnehmen wollen! 
 
-Here's more information if you want to [books us](/about/book/) or [sing with us](/about/join/).
+[Hier](/about/) können Sie mehr über uns erfahren. 
 
 
 <form action="//formspree.io/wibberlin@gmail.com"
