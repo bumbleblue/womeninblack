@@ -1,2 +1,2 @@
 # womeninblack
-This is the unofficial site of the Women In Black barbershop chorus in Berlin.
+This is the official site of the Women in Black barbershop chorus in Berlin.

@@ -6,130 +6,87 @@
 	<html>
 	<head>
 		<xsl:text disable-output-escaping="yes"><![CDATA[
-			<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css" />
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
-	
-  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
-  <script>
-    WebFont.load({
-      google: {
-        families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ] 
-      }
-    });
-  </script>
 
-  <noscript>
-    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic|Volkhov' rel='stylesheet' type='text/css' />
-  </noscript>
-  
-  
-	
-	<meta name="description" content="Women In Black is a women&#39;s barbershop chorus based in Berlin." />
-	
-	
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+	<script>
+		WebFont.load({
+			google: {
+				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+			}
+		});
+	</script>
 
-	
+	<noscript>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
+	</noscript>
 
-
-
-	
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png" />
-
-
-
-
-	
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/icon-144x144.png" />
-
-
-
-
-	
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png" />
-
-
-
-
-	
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png" />
-
-
-
-
-	
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png" />
-
-
-
-
-	
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png" />
-
-
-
-
-	
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png" />
-
-
-
-
-	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png" />
-
-
-
-
-	
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png" />
-
-
-
-
-	
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png" />	
-
-
-
-
-	
-	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/icon-144x144.png" />
-
-
-
-
-	
-	<meta name="msapplication-TileColor" content="#fabb00" />
-
-
-
-	<!-- Facebook Optimization -->
-	<meta property="og:locale" content="en_EN" />
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content="RSS Feed (Styled)" />
-	<meta property="og:description" content="Women In Black is a women&#39;s barbershop chorus based in Berlin." />
-	<meta property="og:url" content="http://localhost:4000//assets/xslt/rss.xslt" />
-	<meta property="og:site_name" content="Women In Black" />
-	
-
-	
 
 	<!-- Search Engine Optimization -->
+	<meta name="description" content="Women In Black is a barbershop chorus in Berlin.">
+  	
+	
+	
+	
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt" />
+
+	<!-- Facebook Open Graph -->
+	<meta property="og:title" content="RSS Feed (Styled)">
+	<meta property="og:description" content="Women In Black is a barbershop chorus in Berlin.">
+	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
+	<meta property="og:locale" content="en_EN">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Women In Black">
+	
+	
+
 
 	
-</head>
+
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
+
+	
+
+	
+
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
+
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/icon-144x144.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
+
+	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/icon-144x144.png">
+
+	<meta name="msapplication-TileColor" content="#fabb00">
+
+
+	
+
 		]]></xsl:text>
 	</head>
 	<body id="top-of-page">
 		<xsl:text disable-output-escaping="yes"><![CDATA[
-		
-<div id="navigation" class="sticky">
+		<div id="navigation" class="sticky">
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
@@ -183,11 +140,7 @@
           
         
         
-
-      
-        <ul>
       </ul>
-    </ul>
 
       <ul class="left">
         
@@ -218,44 +171,10 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a href="http://localhost:4000/about/">About</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-                        
-                      
-
-                      <li><a href="http://localhost:4000/about/events/">Events</a></li>
-                    
-
-                      
-                        
-                      
-
-                      <li><a href="http://localhost:4000/about/book/">Book us</a></li>
-                    
-
-                      
-                        
-                      
-
-                      <li><a href="http://localhost:4000/about/join/">Join us</a></li>
-                    
-
-                      
-                        
-                      
-
-                      <li><a href="http://localhost:4000/about/support/">Support</a></li>
-                    
-                  </ul>
-                  
-              </li>
+              <li><a href="http://localhost:4000/about/">About</a></li>
               <li class="divider"></li>
+
+            
             
           
         
@@ -269,37 +188,10 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a href="http://localhost:4000/media/">Media</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-                        
-                      
-
-                      <li><a href="http://localhost:4000/media/gallery/">Gallery</a></li>
-                    
-
-                      
-                        
-                      
-
-                      <li><a href="http://localhost:4000/media/audio/">Audio</a></li>
-                    
-
-                      
-                        
-                      
-
-                      <li><a href="http://localhost:4000/media/video/">Video</a></li>
-                    
-                  </ul>
-                  
-              </li>
+              <li><a href="http://localhost:4000/media/">Media</a></li>
               <li class="divider"></li>
+
+            
             
           
         
@@ -423,18 +315,18 @@
       <div id="footer">
         <div class="row">
           <div class="medium-6 large-5 columns">
-            <h5 class="shadow-black">About This Site</h5>
+            <h5 class="shadow-black">Über diese Website</h5>
 
             <p class="shadow-black">
-              Women In Black is a women's barbershop chorus based in Berlin.
-              <a href="http://localhost:4000/info/">More ›</a>
+              Women In Black is a barbershop chorus in Berlin.
+              <a href="http://localhost:4000/info/">Mehr ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
 
           <div class="small-6 medium-3 large-3 large-offset-1 columns">
             
-              
+
               <ul class="no-bullet shadow-black">
               
               </ul>
@@ -451,22 +343,22 @@
             
               
             
-              
+
             <ul class="no-bullet shadow-black">
             
               
                 <li >
-                  <a href=""  title=""></a>
+                  <a href="http://localhost:4000"  title=""></a>
                 </li>
             
               
                 <li >
-                  <a href="/contact/"  title="Contact">Contact</a>
+                  <a href="http://localhost:4000/contact/"  title="Contact">Contact</a>
                 </li>
             
               
                 <li >
-                  <a href="/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                  <a href="http://localhost:4000/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                 </li>
             
             </ul>
@@ -478,17 +370,12 @@
 
       <div id="subfooter">
         <nav class="row">
-          <section id="subfooter-left" class="b30 small-12 medium-6 columns credits">
-            <p>
-              Created with &hearts;
-              by&nbsp;<a href="http://eileenwagner.xyz">flapperleenie</a>
-              with&nbsp;<a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
-              based&nbsp;on&nbsp;<a href="http://phlow.github.io/feeling-responsive/">Feeling&nbsp;Responsive</a>.
-            </p>
+          <section id="subfooter-left" class="small-12 medium-6 columns credits">
+            
           </section>
 
-          <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
-            <ul class="inline-list">
+          <section id="subfooter-right" class="small-12 medium-6 columns">
+            <ul class="inline-list social-icons">
             
               <li><a href="http://www.youtube.com/wibberlin" target="_blank" class="icon-youtube" title="watch our performances!"></a></li>
             
@@ -502,7 +389,12 @@
       </div><!-- /#subfooter -->
     </footer>
 
-		<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
+		
+
+
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
+
+
 
 
 

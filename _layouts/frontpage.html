@@ -1,6 +1,6 @@
 ---
 layout: default
-format: blog-index
+format: frontpage
 ---
 <div id="header-home">
     <div class="row">
@@ -17,19 +17,40 @@ format: blog-index
 {% endcomment %}
 <div class="row t60">
 	{% if page.widget1.title %}
-		{% include frontpage-widget widget=page.widget1 %}
+		{% include _frontpage-widget.html widget=page.widget1 %}
 	{% endif %}
 
 
 	{% if page.widget2.title %}
-		{% include frontpage-widget widget=page.widget2 %}
+		{% include _frontpage-widget.html widget=page.widget2 %}
 	{% endif %}
 
 
 	{% if page.widget3.title %}
-		{% include frontpage-widget widget=page.widget3 %}
+		{% include _frontpage-widget.html widget=page.widget3 %}
 	{% endif %}
 </div><!-- /.row -->
+
+
+
+{% comment %}
+*
+* First check, if there is a call for action-button
+*
+{% endcomment %}
+{% if page.callforaction.url contains 'http' %}
+{% assign url = '' %}
+{% else %}
+{% assign url = site.url %}
+{% endif %}
+{% if page.callforaction %}
+    <div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ site.baseurl }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+{% endif %}
+
 
 
 {% comment %}

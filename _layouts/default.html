@@ -2,30 +2,22 @@
 layout: compress
 ---
 <!doctype html>
-<html class="no-js" lang="{{ page.lang }}">
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
 <head>
-	{% include head %}
+	{% include _head.html %}
 </head>
 <body id="top-of-page" class="{{ page.format }}">
 	{% unless page.skip_boilerplate %}
-	{% include navigation %}
+	{% include _navigation.html %}
 	{% endunless %}
 
-	{% for post in posts %}
-      {% if post.lang != page.lang %}
-        {% assign url = post.url %}
-        {% assign lang = post.lang %}
-      {% endif %}
-    {% endfor %}
-
-	{% include masthead %}
-
+	{% include _masthead.html %}
 	{{ content }}
 
 	{% unless page.skip_boilerplate %}
-	{% include footer %}
+	{% include _footer.html %}
 	{% endunless %}
 
-	{% include footer_scripts %}
+	{% include _footer_scripts.html %}
 </body>
 </html>

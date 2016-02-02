@@ -4,19 +4,19 @@ title: "Women In Black"
 slogan: "Women In Black, Berlin's Barbershop Chorus"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Women In Black is a women's barbershop chorus based in Berlin."
+description: "Women In Black is a barbershop chorus in Berlin."
 
 # Main author of the website
 author: flapperleenie
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://eileenwagner.xyz/womeninblack'
+url: 'http://womeninblack.de'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-# improve_content: https://github.com/...
+improve_content: https://github.com/flapperleenie/womeninblack
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -24,7 +24,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://eileenwagner.xyz/womeninblack/images/'
+urlimg: 'http://womeninblack.de/images/'
 
 
 # Logo size is 600x80 pixels
@@ -64,8 +64,9 @@ compress_html:
   ignore:
     envs: [development]
 
-# The language setting is used in /includes/header.html for html-settings
-language: "de"
+languages: ["en", "de"]
+default_lang: "de"
+exclude_from_localization: ["javascript", "images", "css"]
 
 # Default Settings
 defaults:
@@ -85,19 +86,30 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: true
-  -
-    scope:
-      path: _posts/en
-    values:
-      layout: default
-      lang: en
-  -
-    scope:
-      path: _posts/de
-    values:
-      layout: default
-      lang: de
-
+  # -
+  #   scope:
+  #     path: "_posts/en"
+  #   values:
+  #     layout: default
+  #     lang: en
+  # -
+  #   scope:
+  #     path: "_posts/de"
+  #   values:
+  #     layout: default
+  #     lang: de
+  # -
+  #   scope:
+  #     path: "pages/en"
+  #   values:
+  #     layout: default
+  #     lang: en
+  # -
+  #   scope:
+  #     path: "pages/de"
+  #   values:
+  #     layout: default
+  #     lang: de
 
 #     _____ __________
 #    / ___// ____/ __ \

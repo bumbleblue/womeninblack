@@ -4,9 +4,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Women In Black</title>
-	<updated>2015-12-13T22:06:05+01:00</updated>
+	<updated>2016-02-02T20:00:10+01:00</updated>
 
-	<subtitle>Women In Black is a women&#39;s barbershop chorus based in Berlin.</subtitle>
+	<subtitle>Women In Black is a barbershop chorus in Berlin.</subtitle>
 
 	
 		
@@ -31,14 +31,13 @@
 	
 		<entry>
 			<id>http://localhost:4000/launch/</id>
-			<title>Launching our new website!</title>
-			<link href="http://localhost:4000/launch/" rel="alternate" type="text/html" title="Launching our new website!" />
+			<title>Neues Jahr, neue Website!</title>
+			<link href="http://localhost:4000/launch/" rel="alternate" type="text/html" title="Neues Jahr, neue Website!" />
 			<updated>2015-12-30T00:00:00+01:00</updated>
 
 			
-			<summary>We have a new website.</summary>
-			<content type="html" xml:base="http://localhost:4000/launch/">&lt;p&gt;This is the new website!&lt;/p&gt;
-
+			<summary>Wir haben eine neue Website.</summary>
+			<content type="html" xml:base="http://localhost:4000/launch/">&lt;p&gt;Wir stellen vor: die neue Website von Women in Black, auch genannt „die WIBseite“. Mit diesem Launch möchten wir mehr Inhalte an die Öffentlichkeit bringen und damit unsere Freude am Barbershop teilen. &lt;/p&gt;
 </content>
 
 			
@@ -51,13 +50,14 @@
 	
 		<entry>
 			<id>http://localhost:4000/sharonberry/</id>
-			<title>Coaching with Sharon and Berry Towner</title>
-			<link href="http://localhost:4000/sharonberry/" rel="alternate" type="text/html" title="Coaching with Sharon and Berry Towner" />
+			<title>Coaching mit Sharon und Berry Towner</title>
+			<link href="http://localhost:4000/sharonberry/" rel="alternate" type="text/html" title="Coaching mit Sharon und Berry Towner" />
 			<updated>2015-11-07T00:00:00+01:00</updated>
 
 			
-			<summary>We had wonderful coachings with Sharon and Berry Towner.</summary>
-			<content type="html" xml:base="http://localhost:4000/sharonberry/">&lt;p&gt;… and now we just need someone to write about them!&lt;/p&gt;
+			<summary>Wunderbare Coaches, lehrreiche Coachings</summary>
+			<content type="html" xml:base="http://localhost:4000/sharonberry/">&lt;p&gt;Bei den insgesamt drei Coachings mit Sharen und Berry Towner haben wir wieder viel gelernt.&lt;/p&gt;
+
 </content>
 
 			
@@ -95,20 +95,18 @@
 	
 		<entry>
 			<id>http://localhost:4000/deutschlandradio/</id>
-			<title>We&#39;re on Deutschland Radio!</title>
-			<link href="http://localhost:4000/deutschlandradio/" rel="alternate" type="text/html" title="We&#39;re on Deutschland Radio!" />
+			<title>Deutschland Radio Features Women in Black</title>
+			<link href="http://localhost:4000/deutschlandradio/" rel="alternate" type="text/html" title="Deutschland Radio Features Women in Black" />
 			<updated>2014-06-13T00:00:00+02:00</updated>
 
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/deutschlandradio/">&lt;p&gt;We were featured on Deutschlandradio as a &lt;a href=&quot;http://www.deutschlandradiokultur.de/chor-der-woche-leiblich-und-weiblich.1153.de.html?dram:article_id=289049&quot;&gt;Choir of the Week&lt;/a&gt; in June.&lt;/p&gt;
+			<content type="html" xml:base="http://localhost:4000/deutschlandradio/">&lt;p&gt;Die Women in Black wurden im Juni im Deutschlandradio als Chor der Woche vorgestellt. &lt;a href=&quot;http://www.deutschlandradiokultur.de/chor-der-woche-leiblich-und-weiblich.1153.de.html?dram:article_id=289049&quot;&gt;Hier&lt;/a&gt; geht’s zur Sendung.&lt;/p&gt;
 </content>
 
 			
-				<category term="links" />
+				<category term="news" />
 			
-			
-				<category term="radio" />
 			
 
 			<published>2014-06-13T00:00:00+02:00</published>
@@ -132,8 +130,6 @@
 			
 				<category term="news" />
 			
-			
-				<category term="prize" />
 			
 
 			<published>2014-03-23T00:00:00+01:00</published>

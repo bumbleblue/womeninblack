@@ -5,26 +5,17 @@
 - title: About
   url: "/about/"
   side: left
-  dropdown:
-  - title: "Events"
-    url: "/about/events/"
-  - title: "Book us"
-    url: "/about/book/"
-  - title: "Join us"
-    url: "/about/join/"  
-  - title: "Support"
-    url: "/about/support/"
 
 - title: Media
   url: "/media/"
   side: left
-  dropdown:
-  - title: "Gallery"
-    url: "/media/gallery/"
-  - title: "Audio"
-    url: "/media/audio/"
-  - title: "Video"
-    url: "/media/video/"
+  # dropdown:
+  # - title: "Gallery"
+  #   url: "/media/gallery/"
+  # - title: "Audio"
+  #   url: "/media/audio/"
+  # - title: "Video"
+  #   url: "/media/video/"
 
 - title: Blog
   url: "/blog/"

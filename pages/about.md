@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "The Women in Black Chorus"
+title: "Women in Black"
 subheadline: "Barbershop in Berlin"
-teaser: "This is Berlin's Barbershop Chorus."
+teaser: "Der etwas andere Frauenchor."
 permalink: "/about/"
 header:
     title: ""
@@ -15,8 +15,17 @@ Der Begriff Barbershop kommt aus den USA. Dabei handelt es sich um vierstimmigen
 
 Die Barbershop-Musik ist im Laufe der vergangenen 20 Jahre in Deutschland immer populärer geworden, auch aufgrund der Arbeit des 1991 gegründeten Verbandes “BinG! Barbershop in Germany”. Die von internationalen Verbänden ausgebildeten Juroren der Wettbewerbe, die überwiegend aus den USA und Kanada stammen, bewerten neben der musikalischen Qualität auch die künstlerische Darstellung der Chöre. 
 
+### Mitsingen
 
-Weiterführende Links:
+Sie haben auch Freude am Singen und möchten Barbershop kennenlernen? Wir suchen immer nach neuen Mitgliedern. Unsere Proben finden Montagabends in Berlin-Zehlendorf statt. Schauen Sie doch einfach bei der nächsten Probe vorbei. Melden Sie sich einfach [hier](/contact/).
+<!-- # Unterstützen
+ -->
+
+### Veranstaltungen
+
+Wir singen gerne für Sie! Ob Hochzeiten, Weihnachtsfeier oder Festivals, wir finden immer das passende Programm. [Schreiben Sie uns einfach!](/contact/)
+
+### Weiterführende Links:
 
 [BinG!][]
 <br>
@@ -24,7 +33,7 @@ Weiterführende Links:
 <br>
 [Sweet Adelines International][]
 <br>
-[The Bees' Knees][]
+[The Bees' Knees][] – unser eigenes Quartett
 
 
 [BinG!]: http://www.barbershop.de/de/news/index.html
