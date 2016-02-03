@@ -7,14 +7,14 @@ permalink: /media/
 
 <ul class="clearing-thumbs small-block-grid-3" data-clearing>
   <li><a href="{{ site.url }}/images/1933246_orig.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/1933246_orig_thumb.jpg"></a></li>
-  <li><a href="{{ site.url }}/images/3856687_orig.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/3856687_orig_thumb.jpg"></a></li>
+  <li><a href="{{ site.url }}/images/herren.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/herren_thumb.jpg"></a></li>
   <li><a href="{{ site.url }}/images/3215396_orig.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/3215396_orig_thumb.jpg"></a></li>
   <li><a href="{{ site.url }}/images/4216927_orig.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/4216927_orig_thumb.jpg"></a></li>
   <li><a href="{{ site.url }}/images/5602047_orig.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/5602047_orig_thumb.jpg"></a></li>
   <li><a href="{{ site.url }}/images/7101830_orig.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/7101830_orig_thumb.jpg"></a></li>
 </ul>
 
-### Coaching mit Sharon und Berry Towner
+### Coaching mit Sharon und Barry Towner
 
 <br>
 

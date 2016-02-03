@@ -9,7 +9,7 @@ header:
     image_fullwidth: "header.jpg"
     caption: Eric Ideler 2014
 ---
-Women in Black – das ist mitreißender Barbershop-Klang aus der deutschen Hauptstadt. Die 23 Sängerinnen um Chorleiter Steven Hepner, ein Amerikaner und Urgestein des Barbershops in Deutschland, überzeugen durch schräge und strahlende Harmonien genauso wie durch ausdrucksstarke und effektvolle Bewegungen auf der Bühne. Entsprechend der historisch bedingten engen Verbindung Berlins und der USA sind die Women in Black ein deutsch-amerikanischer Barbershop-Frauenchor, der seit etwa drei Jahren besteht.
+Women in Black – das ist mitreißender Barbershop-Klang aus der deutschen Hauptstadt. Die 23 Sängerinnen um Chorleiter Steve Hepner, ein Amerikaner und Urgestein des Barbershops in Deutschland, überzeugen durch schräge und strahlende Harmonien genauso wie durch ausdrucksstarke und effektvolle Bewegungen auf der Bühne. Entsprechend der historisch bedingten engen Verbindung Berlins und der USA sind die Women in Black ein deutsch-amerikanischer Barbershop-Frauenchor, der seit etwa drei Jahren besteht.
 
 Der Begriff Barbershop kommt aus den USA. Dabei handelt es sich um vierstimmigen A-Cappella-Gesang, der sich Mitte des 19. Jahrhunderts in den USA entwickelte. Nach 2012 nahm der Chor dieses Jahr in einer etwas erweiterten Besetzung am Barbershop-Musikfestival in Dortmund teil: Rund 40 Prozent der Sängerinnen standen im März 2014 das erste Mal auf der Festival-Bühne und bestanden ihre Feuertaufe bei dem bundesweiten Chorwettbewerb mit Bravour: Die dem Barbershop Verfallenen zwischen 21 und 68 Jahren wurden mit dem Crescendo-Preis geehrt, einer Auszeichnung, die dem Wettbewerbsteilnehmer mit der größten Leistungssteigerung seit dem letzten Wettbewerb in 2012 verliehen wurde.
 
