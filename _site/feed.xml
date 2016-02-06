@@ -9,19 +9,30 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>A one, a two, a ...</title>
+				<link>http://localhost:4000/copenhagen/</link>
+				<pubDate>Thu, 04 Feb 2016 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;The Society of Nordic Barbershop Singers (SNOBS) organized a Director’s College in Copenhagen the first weekend in February, and participants came from all over Europe, including Sweden, Spain, Ireland, and Germany. Courses were taught by an experienced and inspiring faculty: Rasmus Krigström of the Ringmasters and Zero8 (Sweden), Royce Ferguson of Westminster Chorus (California, USA), and arranger and judge, Rob Campbell (USA).&lt;/p&gt;
+
+&lt;p&gt;The newly formed director’s team of Women in Black (Steve, Francis, Eileen, and Nicole) attended this college that offered courses on the best way to learn new music, what a director communicate non-verbally to the chorus, and techniques to bring the most out of singers. It was a great bonding experience for the team. During the breaks, we met and shared what we learned with each other, as well as brainstormed techniques we could incorporate into our rehearsals. There was, of course, much singing all weekend, and we all left on Sunday feeling highly inspired be the best vocal coaches we can be! Now let’s get started: a one, a two, a one, two, three, four…!&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/copenhagen/</guid>
+			</item>
+		
+			<item>
 				<title>Neues Jahr, neue Website!</title>
 				<link>http://localhost:4000/launch/</link>
 				<pubDate>Wed, 30 Dec 2015 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;Wir stellen vor: die neue Website von Women in Black, auch genannt „die WIBseite“. Mit diesem Launch möchten wir mehr Inhalte an die Öffentlichkeit bringen und damit unsere Freude am Barbershop teilen. &lt;/p&gt;
+				<description>&lt;p&gt;Wir stellen vor: die neue Website von Women in Black, auch genannt „die WIBseite“. Mit diesem Launch möchten wir mehr Inhalte an die Öffentlichkeit bringen und damit unsere Freude am Barbershop teilen.&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">http://localhost:4000/launch/</guid>
 			</item>
 		
 			<item>
-				<title>Coaching mit Sharon und Berry Towner</title>
+				<title>Coaching mit Sharon und Barry Towner</title>
 				<link>http://localhost:4000/sharonberry/</link>
 				<pubDate>Sat, 07 Nov 2015 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;Bei den insgesamt drei Coachings mit Sharen und Berry Towner haben wir wieder viel gelernt.&lt;/p&gt;
+				<description>&lt;p&gt;Bei den insgesamt drei Coachings mit Sharen und Barry Towner haben wir wieder viel gelernt.&lt;/p&gt;
 
 </description>
 				<guid isPermaLink="true">http://localhost:4000/sharonberry/</guid>
@@ -31,7 +42,7 @@
 				<title>Women in Black empfängt Herrenbesuch</title>
 				<link>http://localhost:4000/herrenbesuch/</link>
 				<pubDate>Wed, 10 Dec 2014 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;Women in Black empfängt Herrenbesuch - der Name war Programm bei dem gemeinsamen Barbershop-Konzert des Berliner Frauenchores Women in Black und des Münchner Männerchores errenbesuch am 10. Dezember 2014 in der American Church in Berlin. Die Damen unter der Leitung der kurzfristig eingesprungenen Francis Schmutzler begeisterten die rund 250 Zuschauer im ausverkauften Haus mit mitreißenden Barbershop-Klängen, während die Herren unter Hans-Jürgen Wieneke auf ihre nicht nur in der Branche bereits bekannte charmant-amüsante Art die Herzen der Konzertgäste eroberten. &lt;/p&gt;
+				<description>&lt;p&gt;Women in Black empfängt Herrenbesuch - der Name war Programm bei dem gemeinsamen Barbershop-Konzert des Berliner Frauenchores Women in Black und des Münchner Männerchores errenbesuch am 10. Dezember 2014 in der American Church in Berlin. Die Damen unter der Leitung der kurzfristig eingesprungenen Francis Schmutzler begeisterten die rund 250 Zuschauer im ausverkauften Haus mit mitreißenden Barbershop-Klängen, während die Herren unter Hans-Jürgen Wieneke auf ihre nicht nur in der Branche bereits bekannte charmant-amüsante Art die Herzen der Konzertgäste eroberten.&lt;/p&gt;
 
 &lt;p&gt;Besondere Glanzlichter des von Kerstin Greaves vom Quartett Connections moderierten Abends waren die Auftritte der Berliner Quartette The Bees’ Knees und Connections und der Münchner Quartette Liedhaber und Rosenkavaliere. Am Rande sei erwähnt, dass Herrenbesuch sich auch für Filmaufnahmen für die Helene-Fischer-Show 2014 in der Bundeshauptstadt aufhielt. Kein Wunder, dass es beim Afterglow rund um die American Church in Berlin hieß: „Atemlos!“&lt;/p&gt;
 </description>
@@ -55,7 +66,7 @@
 
 &lt;p&gt;Der deutsch-amerikanische Chor erreichte bei dem Barbershop Musikfestival 2014 im Konzerthaus Dortmund 65 Prozent in der Gesamtwertung, die sich aus den Kategorien Musik, Präsentation und Gesang zusammensetzt. Die 23 Sängerinnen zwischen 22 und 68 Jahren des Chores, der seit knapp drei Jahren besteht, steigerten sich damit um 7,4 Prozentpunkte gegenüber dem Ergebnis vom Frühling 2012 und belegten in der Gesamtwertung den zehnten Platz. Sieger des Wettbewerbs wurde „Ladies First“, ein Frauenchor aus Dortmund mit 80,2 Prozent, dicht gefolgt von den „Harmunichs“, einem ebenfalls weiblichen Chor aus München (78,5 Prozent). Den dritten Platz belegte „Herrenbesuch“, ein Männerchor aus München mit 74,8 Prozent.&lt;/p&gt;
 
-&lt;p&gt;Die Sängerinnen des Berliner Chores „Women in Black“ stammen aus dem Umfeld der Kennedy-Schule in Zehlendorf. Es handelt sich um Eltern, Lehrer, Nachbarn und Freunde der Schulgemeinschaft. Sie sangen bei dem A-Cappella-Kontest im Konzerthaus Dortmund zwei Stücke – ohne Begleitung durch Musikinstrumente. Der Begriff Barbershop kommt aus den USA. Dabei handelt es sich um vierstimmigen A-Cappella-Gesang, der sich Mitte des 19. Jahrhunderts in den USA entwickelte. Diese Musik ist im Laufe der vergangenen 20 Jahre in Deutschland immer populärer geworden, auch aufgrund der Arbeit des 1991 gegründeten Verbandes “BinG! Barbershop in Germany”. Die von internationalen Verbänden ausgebildeten Juroren der Wettbewerbe, die überwiegend aus den USA und Kanada stammen, bewerten neben der musikalischen Qualität auch die künstlerische Darstellung der Chöre. &lt;/p&gt;
+&lt;p&gt;Die Sängerinnen des Berliner Chores „Women in Black“ stammen aus dem Umfeld der Kennedy-Schule in Zehlendorf. Es handelt sich um Eltern, Lehrer, Nachbarn und Freunde der Schulgemeinschaft. Sie sangen bei dem A-Cappella-Kontest im Konzerthaus Dortmund zwei Stücke – ohne Begleitung durch Musikinstrumente. Der Begriff Barbershop kommt aus den USA. Dabei handelt es sich um vierstimmigen A-Cappella-Gesang, der sich Mitte des 19. Jahrhunderts in den USA entwickelte. Diese Musik ist im Laufe der vergangenen 20 Jahre in Deutschland immer populärer geworden, auch aufgrund der Arbeit des 1991 gegründeten Verbandes “BinG! Barbershop in Germany”. Die von internationalen Verbänden ausgebildeten Juroren der Wettbewerbe, die überwiegend aus den USA und Kanada stammen, bewerten neben der musikalischen Qualität auch die künstlerische Darstellung der Chöre.&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">http://localhost:4000/crescendo-preis/</guid>
 			</item>
