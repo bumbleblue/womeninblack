@@ -16,6 +16,6 @@ tags:
     - coaching
 ---
 
-Bei den insgesamt drei Coachings mit Sharen und Barry Towner haben wir wieder viel gelernt.
+Bei den insgesamt drei Coachings mit Sharon und Barry Towner haben wir wieder viel gelernt.
 
 
