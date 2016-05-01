@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Women In Black</title>
-	<updated>2016-02-06T15:39:07+01:00</updated>
+	<updated>2016-05-02T00:07:48+02:00</updated>
 
 	<subtitle>Women In Black is a barbershop chorus in Berlin.</subtitle>
 
@@ -26,8 +26,47 @@
 	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
 	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/thebside/</id>
+			<title>The B Side meets Women in Black</title>
+			<link href="http://localhost:4000/thebside/" rel="alternate" type="text/html" title="The B Side meets Women in Black" />
+			<updated>2016-05-01T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Nicole</name>
+					
+					
+					
+				</author>
+			
+			<summary>A-cappella-Konzert am 28. Mai 2016 um 20 Uhr im Café Theater Schalotte</summary>
+			<content type="html" xml:base="http://localhost:4000/thebside/">&lt;p&gt;Das international besetzte Quartett &lt;em&gt;&lt;a href=&quot;http://www.the-b-side-quartet.com/&quot;&gt;The B Side&lt;/a&gt;&lt;/em&gt; trifft im &lt;a href=&quot;http://www.schalotte.de/&quot;&gt;Café Theater Schalotte&lt;/a&gt; auf den Berliner Barbershop-Chor &lt;em&gt;Women in Black&lt;/em&gt;. Das Flair der Bundeshauptstadt und die multikulturelle Zusammensetzung von The B Side bestimmen die bunte Mischung des Quartett-Repertoires: Moderne Rock- und Popsongs, traditioneller amerikanischer Jazz, deutsche und schwedische Volkslieder – selbst arrangiert und neu komponiert – machen  den besonderen Klang des A-cappella-Quartetts aus. (The B Side - Sopran: Sarah Welz (Kanada), Alt: Kerstin Greaves (Deutschland), Tenor:  Brady Swenson (USA), Bassbariton: Travis Shaw (USA)).&lt;/p&gt;
+
+&lt;p&gt;Die &lt;em&gt;Women in Black&lt;/em&gt; unter Chorleiter Steve Hepner liefern mitreißenden Barbershop-Klang und singen sich mit Temperament und Leidenschaft, schrägen und strahlenden Harmonien in die Herzen ihres Publikums. Barbershop ist vierstimmiger A-cappella-Gesang, der sich Mitte des 19. Jahrhunderts in den USA entwickelte. Die historisch enge Verbindung zwischen Berlin und den USA spiegelt sich in dem vom Amerikaner und Barbershop-Aficionado Hepner an der Berliner John F. Kennedy Schule gegründeten deutsch-amerikanischen Frauenchor wieder.&lt;/p&gt;
+
+&lt;h4&gt;Termin: Samstag, 28.05.2016, 20 Uhr&lt;/h4&gt;
+
+&lt;h5&gt;Eintritt: 16 Euro, ermäßigt 12 Euro &lt;/h5&gt;
+
+&lt;h5&gt; Karten unter Telefon (030) 341 14 85 oder online unter: &lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.schalotte.de/index.php?option=com_seminar&amp;amp;Itemid=11&quot;&gt;www.schalotte.de/index.php?option=com_seminar&amp;amp;Itemid=11&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="news" />
+			
+			
+				<category term="concert" />
+			
+
+			<published>2016-05-01T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/copenhagen/</id>
@@ -46,9 +85,9 @@
 				</author>
 			
 			<summary>Women in Black send Director’s Team to Director’s College in Copenhagen</summary>
-			<content type="html" xml:base="http://localhost:4000/copenhagen/">&lt;p&gt;The Society of Nordic Barbershop Singers (SNOBS) organized a Director’s College in Copenhagen the first weekend in February, and participants came from all over Europe, including Sweden, Spain, Ireland, and Germany. Courses were taught by an experienced and inspiring faculty: Rasmus Krigström of the Ringmasters and Zero8 (Sweden), Royce Ferguson of Westminster Chorus (California, USA), and arranger and judge, Rob Campbell (USA).&lt;/p&gt;
+			<content type="html" xml:base="http://localhost:4000/copenhagen/">&lt;p&gt;The Society of Nordic Barbershop Singers (SNOBS) organized a Directors’ College in Copenhagen the first weekend in February, and participants came from all over Europe, including Sweden, Spain, Ireland, and Germany. Courses were taught by an experienced and inspiring faculty: Rasmus Krigström of the Ringmasters and &lt;a href=&quot;http://www.zero8.se/&quot;&gt;Zero8&lt;/a&gt; (Sweden), Royce Ferguson of &lt;a href=&quot;http://www.westminsterchorus.org/&quot;&gt;Westminster Chorus&lt;/a&gt; (California, USA), and arranger and judge, &lt;a href=&quot;http://hollandharmony.dse.nl/coach-RobCampbell.htm&quot;&gt;Rob Campbell&lt;/a&gt; (USA). The Directors’ College was sponsored by SNOBS and the European Harmony Alliance.&lt;/p&gt;
 
-&lt;p&gt;The newly formed director’s team of Women in Black (Steve, Francis, Eileen, and Nicole) attended this college that offered courses on the best way to learn new music, what a director communicate non-verbally to the chorus, and techniques to bring the most out of singers. It was a great bonding experience for the team. During the breaks, we met and shared what we learned with each other, as well as brainstormed techniques we could incorporate into our rehearsals. There was, of course, much singing all weekend, and we all left on Sunday feeling highly inspired be the best vocal coaches we can be! Now let’s get started: a one, a two, a one, two, three, four…!&lt;/p&gt;
+&lt;p&gt;The newly formed directors’ team of Women in Black (Steve, Francis, Eileen, and Nicole) attended this college that offered courses on the best way to learn new music, what a director communicate non-verbally to the chorus, and techniques to bring the most out of singers. It was a great bonding experience for the team. During the breaks, we met and shared what we learned with each other, as well as brainstormed techniques we could incorporate into our rehearsals. There was, of course, much singing all weekend, and we all left on Sunday feeling highly inspired be the best vocal coaches we can be! Now let’s get started: a one, a two, a one, two, three, four…!&lt;/p&gt;
 </content>
 
 			
@@ -88,7 +127,7 @@
 
 			
 			<summary>Wunderbare Coaches, lehrreiche Coachings</summary>
-			<content type="html" xml:base="http://localhost:4000/sharonberry/">&lt;p&gt;Bei den insgesamt drei Coachings mit Sharen und Barry Towner haben wir wieder viel gelernt.&lt;/p&gt;
+			<content type="html" xml:base="http://localhost:4000/sharonberry/">&lt;p&gt;Bei den insgesamt drei Coachings mit Sharon und Barry Towner haben wir wieder viel gelernt.&lt;/p&gt;
 
 </content>
 
