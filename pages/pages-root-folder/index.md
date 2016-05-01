@@ -16,7 +16,7 @@ widget3:
   title: "Kalender"
   url: '/blog/'
   image: unsplash_calendar.jpg
-  text: '04.-06.03.16 <br> <a href="http://www.barbershop.de/de/musikfestival/uebersicht/index.html"><strong>Barbershop Musikfestival</strong></a> in München'
+  text: '28.05.16 <br> <a href="/thebside/"><strong>The B Side meets Women in Black</strong></a> im Café Theater Schalotte'
 permalink: /index.html
 homepage: true
 ---
