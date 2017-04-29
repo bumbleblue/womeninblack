@@ -16,7 +16,7 @@ widget3:
   title: "Kalender"
   url: '/blog/'
   image: unsplash_calendar.jpg
-  text: '28.05.16 <br> <a href="/thebside/"><strong>The B Side meets Women in Black</strong></a> im Café Theater Schalotte'
+  text: '24.06.17 <br> <a href="/bonn/"><strong>SISTERS ARE DOIN‘ IT!</strong></a> in Bonn'
 permalink: /index.html
 homepage: true
 ---
