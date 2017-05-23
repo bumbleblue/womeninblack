@@ -16,7 +16,7 @@ widget3:
   title: "Kalender"
   url: '/blog/'
   image: unsplash_calendar.jpg
-  text: '24.06.17 <br> <a href="/bonn/"><strong>SISTERS ARE DOIN‘ IT!</strong></a> in Bonn'
+  text: '24.06.17 <a href="/bonn/"><strong>SISTERS ARE DOIN‘ IT!</strong></a> in Bonn <br> 17.06.17 <a href="/ehb/"><strong>European Harmony Brigade</strong></a>' 
 permalink: /index.html
 homepage: true
 ---
