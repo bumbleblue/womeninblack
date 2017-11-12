@@ -12,7 +12,7 @@ category:
 tags:
     - director
 image:
-    thumb: "Steve JFK obit.jpg"
+    thumb: "Steve JFK obit_thumb.jpg"
     title: "Steve JFK obit.jpg"
     homepage: "Steve JFK obit.jpg"
 ---
