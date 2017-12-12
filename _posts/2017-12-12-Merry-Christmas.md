@@ -8,9 +8,10 @@ author: Nicole
 teaser: ""
 breadcrumb: true
 category:
-    - news
+    - wishes
 tags:
     - singing
+    - christmas
 image:
     thumb: "Christmas_thumb.jpg"
     title: "Christmas.jpg"
