@@ -13,9 +13,9 @@ tags:
     - singing
     - christmas
 image:
-    thumb: "christmas_thumb.jpg"
-    title: "christmas.jpg"
-    homepage: "christmas_home.jpg"
+    thumb: "christmas_thumb.jpeg"
+    title: "christmas.jpeg"
+    homepage: "christmas_home.jpeg"
 ---
 
 Last night, we gathered to celebrate Christmas in Charlottenburg. A good time was had by all, caroling, eating, and enjoying each other's company. 
