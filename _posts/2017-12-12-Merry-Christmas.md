@@ -14,7 +14,7 @@ tags:
     - christmas
 image:
     thumb: "christmas_thumb.jpg"
-    title: "christmas.jpeg"
+    title: "christmas.jpg"
     homepage: "christmas_home.jpg"
 ---
 
