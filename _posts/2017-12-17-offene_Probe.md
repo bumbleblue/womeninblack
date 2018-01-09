@@ -4,7 +4,7 @@ sidebar: right
 title:  "Open Rehearsal - offene Probe"
 subheadline: "Sing with Us!"
 name: offene_Probe
-author: Edelgard
+author: edelgard
 teaser: "You too can be a part of the Women in Black"
 breadcrumb: true
 category:
@@ -22,13 +22,11 @@ Women in Black is holding an open rehearsal to all interested women. You are inv
 
 **When?**	  Monday, 22. January 2018, 7.30 p.m.
 
-**Where?**        Meet at at the front gate of the John F. Kennedy School, Teltower Damm 87-93, 14167 Berlin
+**Where?**    Meet at at the front gate of the John F. Kennedy School, Teltower Damm 87-93, 14167 Berlin
 
 
-Women in Black bietet eine offene Probe für alle interessierten Frauen an. Ihr seid herzlich eingeladen mit uns zu proben. Noten werden Euch in der Probe zur Verfügung gestellt. Bringt Eure Begeisterung und eine Flasche Wasser mit. Wir freuen uns darauf mit Euch zu singen! Bitte meldet Euch unter WiBBerlin@gmail.com an, wenn Ihr teilnehmen möchtet. 
+Women in Black bietet eine offene Probe für alle interessierten Frauen an. Ihr seid herzlich eingeladen mit uns zu proben. Noten werden Euch in der Probe zur Verfügung gestellt. Bringt Eure Begeisterung und eine Flasche Wasser mit. Wir freuen uns darauf mit Euch zu singen! Bitte meldet Euch unter WiBBerlin@gmail.com an, wenn Ihr teilnehmen möchtet.
 
-**Wann?**	 Montag, 22. Januar 2018, 19.30 Uhr 
+**Wann?**	 Montag, 22. Januar 2018, 19.30 Uhr
 
 **Wo?**		 Treffen am Haupteingang der John-F.-Kennedy-Schule, Teltower Damm 87-93, 14167 Berlin
-
-
