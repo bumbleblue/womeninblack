@@ -11,12 +11,12 @@ widget2:
   title: "Was ist Barbershop?"
   url: 'http://www.barbershop.de/de/barbershop/musik/index.html'
   image: wiki_poster.jpg
-  text: 'Barbershop ist vierstimmige a Appella Musik, die sich durch enge Harmonien auszeichnet.'
+  text: 'Barbershop ist vierstimmige a cappella Musik, die sich durch enge Harmonien auszeichnet.'
 widget3:
   title: "Kalender"
   url: '/blog/'
   image: unsplash_calendar.jpg
-  text: '24.06.17 <a href="/bonn/"><strong>SISTERS ARE DOIN‘ IT!</strong></a> in Bonn <br> 17.06.17 <a href="/EHB/"><strong>European Harmony Brigade</strong></a> in Berlin' 
+  text: '24.06.17 <a href="/bonn/"><strong>SISTERS ARE DOIN‘ IT!</strong></a> in Bonn <br> 17.06.17 <a href="/EHB/"><strong>European Harmony Brigade</strong></a> in Berlin'
 permalink: /index.html
 homepage: true
 ---
