@@ -21,8 +21,8 @@ collections:
       - {label: "Teaser", name: "teaser", widget: "string"}
       - {label: "Category", name: "category", widget: "string"}
       - {label: "Tags", name: "tags", widget: "string"}
-      - {label: "Breadcrumb", name: "breadcrumb", widget: "hidden", default: "true"}
-      - {label: "Thumbnail", name: "thumb", widget: "image"}
+      # - {label: "Breadcrumb", name: "breadcrumb", widget: "hidden", default: "true"}
+      # - {label: "Thumbnail", name: "thumb", widget: "image"}
       - {label: "Featured", name: "homepage", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "page" # Used in routes, e.g., /admin/collections/blog
@@ -36,3 +36,4 @@ collections:
       - {label: "Subtitle", name: "subheadline", widget: "string"}
       - {label: "Header image", name: "header", widget: "image"}
       - {label: "Teaser", name: "teaser", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
