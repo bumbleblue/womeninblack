@@ -1,91 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="{ { site.baseurl } }/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="{ { site.baseurl } }/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>{ { site.title | xml_escape } }</title>
-		<description>{ { site.description | xml_escape } }</description>
-		<link>{ { site.url } }{ { site.baseurl } }/</link>
-		<atom:link href="{ { site.url } }{ { site.baseurl } }{ { page.url } }" rel="self" type="application/rss+xml" />
+		<title>Women In Black</title>
+		<description>Women In Black is a barbershop chorus in Berlin.</description>
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>{ { post.title | xml_escape } }</title>
-				<link>{ { site.url } }{ { site.baseurl } }{ { post.url } }</link>
-				<pubDate>{ { post.date | date: "%a, %d %b %Y %H:%M:%S %z" } }</pubDate>
-				<description>{ { post.content | xml_escape } }</description>
-				<guid isPermaLink="true">{ { site.url } }{ { site.baseurl } }{ { post.url } }</guid>
+				<title>SISTERS ARE DOIN‘ IT! Barbershop im Doppelpack</title>
+				<link>http://localhost:4000/bonn/</link>
+				<pubDate>Fri, 28 Apr 2017 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;In ihrem ersten gemeinsamen Konzert präsentieren die &lt;a href=&quot;http://barberellas.de&quot;&gt;&lt;strong&gt;Barberellas aus Bonn&lt;/strong&gt;&lt;/a&gt; und ihre Gäste, die &lt;strong&gt;Berliner „Women in Black“&lt;/strong&gt;, ein deutsch-amerikanischer Barbershop-Frauenchor, der seit 2010 besteht, mitreißende Swing-, Jazz- und Filmmusikklassiker, hauchzarte Harmonien und pure Emotionen.&lt;/p&gt;
+
+&lt;p&gt;Mit jeder Menge Energie und schamlos witzig singen und tanzen sich diese Frauen durch Liebeslust und Liebesfrust. Dabei frönen sie frech einer ziemlich speziellen Männerdiät und managen ihr Dasein auch sonst sehr souverän, vor allem aber schwesterlich vereint in ihrer größten Leidenschaft, dem Barbershop-Singen.&lt;/p&gt;
+
+&lt;p&gt;Sisters are doing it! - Vorsicht, so viel Power ist ansteckend! - Zu Risiken und Nebenwirkungen dieser rezeptfreien Veranstaltung fragen Sie ruhig die Chorleiter Susanne Unger-Kügler und Steve Hepner.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wann?&lt;/strong&gt;	 Samstag, 24. Juni 2017, 20.00 Uhr (Einlass 19.30 Uhr)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wo?&lt;/strong&gt;		 Kleine Beethovenhalle, Muffendorfer Hauptstr. 22, 53117 Bonn&lt;/p&gt;
+
+&lt;p&gt;Tickets (15,- € / 12,- € erm. zuzüglich Vorverkaufsgebühr) über &lt;a href=&quot;http://bonnticket.de&quot;&gt;www.bonnticket.de&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tickethotline: 02 28 – 50 20 10, evtl. Restkarten an der Abendkasse&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/bonn/</guid>
 			</item>
 		
 			<item>
-				<title>{ { post.title | xml_escape } }</title>
-				<link>{ { site.url } }{ { site.baseurl } }{ { post.url } }</link>
-				<pubDate>{ { post.date | date: "%a, %d %b %Y %H:%M:%S %z" } }</pubDate>
-				<description>{ { post.content | xml_escape } }</description>
-				<guid isPermaLink="true">{ { site.url } }{ { site.baseurl } }{ { post.url } }</guid>
+				<title>The B Side meets Women in Black</title>
+				<link>http://localhost:4000/thebside/</link>
+				<pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Das international besetzte Quartett &lt;em&gt;&lt;a href=&quot;http://www.the-b-side-quartet.com/&quot;&gt;The B Side&lt;/a&gt;&lt;/em&gt; trifft im &lt;a href=&quot;http://www.schalotte.de/&quot;&gt;Café Theater Schalotte&lt;/a&gt; auf den Berliner Barbershop-Chor &lt;em&gt;Women in Black&lt;/em&gt;. Das Flair der Bundeshauptstadt und die multikulturelle Zusammensetzung von The B Side bestimmen die bunte Mischung des Quartett-Repertoires: Moderne Rock- und Popsongs, traditioneller amerikanischer Jazz, deutsche und schwedische Volkslieder – selbst arrangiert und neu komponiert – machen  den besonderen Klang des A-cappella-Quartetts aus. (The B Side - Sopran: Sarah Welz (Kanada), Alt: Kerstin Greaves (Deutschland), Tenor:  Brady Swenson (USA), Bassbariton: Travis Shaw (USA)).&lt;/p&gt;
+
+&lt;p&gt;Die &lt;em&gt;Women in Black&lt;/em&gt; unter Chorleiter Steve Hepner liefern mitreißenden Barbershop-Klang und singen sich mit Temperament und Leidenschaft, schrägen und strahlenden Harmonien in die Herzen ihres Publikums. Barbershop ist vierstimmiger A-cappella-Gesang, der sich Mitte des 19. Jahrhunderts in den USA entwickelte. Die historisch enge Verbindung zwischen Berlin und den USA spiegelt sich in dem vom Amerikaner und Barbershop-Aficionado Hepner an der Berliner John F. Kennedy Schule gegründeten deutsch-amerikanischen Frauenchor wieder.&lt;/p&gt;
+
+&lt;h4&gt;Termin: Samstag, 28.05.2016, 20 Uhr&lt;/h4&gt;
+
+&lt;h5&gt;Eintritt: 16 Euro, ermäßigt 12 Euro &lt;/h5&gt;
+
+&lt;h5&gt; Karten unter Telefon (030) 341 14 85 oder online unter: &lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.schalotte.de/index.php?option=com_seminar&amp;amp;Itemid=11&quot;&gt;www.schalotte.de/index.php?option=com_seminar&amp;amp;Itemid=11&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/thebside/</guid>
 			</item>
 		
 			<item>
-				<title>{ { post.title | xml_escape } }</title>
-				<link>{ { site.url } }{ { site.baseurl } }{ { post.url } }</link>
-				<pubDate>{ { post.date | date: "%a, %d %b %Y %H:%M:%S %z" } }</pubDate>
-				<description>{ { post.content | xml_escape } }</description>
-				<guid isPermaLink="true">{ { site.url } }{ { site.baseurl } }{ { post.url } }</guid>
+				<title>A one, a two, a ...</title>
+				<link>http://localhost:4000/copenhagen/</link>
+				<pubDate>Thu, 04 Feb 2016 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;The Society of Nordic Barbershop Singers (SNOBS) organized a Directors’ College in Copenhagen the first weekend in February, and participants came from all over Europe, including Sweden, Spain, Ireland, and Germany. Courses were taught by an experienced and inspiring faculty: Rasmus Krigström of the Ringmasters and &lt;a href=&quot;http://www.zero8.se/&quot;&gt;Zero8&lt;/a&gt; (Sweden), Royce Ferguson of &lt;a href=&quot;http://www.westminsterchorus.org/&quot;&gt;Westminster Chorus&lt;/a&gt; (California, USA), and arranger and judge, &lt;a href=&quot;http://hollandharmony.dse.nl/coach-RobCampbell.htm&quot;&gt;Rob Campbell&lt;/a&gt; (USA). The Directors’ College was sponsored by SNOBS and the European Harmony Alliance.&lt;/p&gt;
+
+&lt;p&gt;The newly formed directors’ team of Women in Black (Steve, Francis, Eileen, and Nicole) attended this college that offered courses on the best way to learn new music, what a director communicate non-verbally to the chorus, and techniques to bring the most out of singers. It was a great bonding experience for the team. During the breaks, we met and shared what we learned with each other, as well as brainstormed techniques we could incorporate into our rehearsals. There was, of course, much singing all weekend, and we all left on Sunday feeling highly inspired be the best vocal coaches we can be! Now let’s get started: a one, a two, a one, two, three, four…!&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/copenhagen/</guid>
 			</item>
 		
 			<item>
-				<title>{ { post.title | xml_escape } }</title>
-				<link>{ { site.url } }{ { site.baseurl } }{ { post.url } }</link>
-				<pubDate>{ { post.date | date: "%a, %d %b %Y %H:%M:%S %z" } }</pubDate>
-				<description>{ { post.content | xml_escape } }</description>
-				<guid isPermaLink="true">{ { site.url } }{ { site.baseurl } }{ { post.url } }</guid>
+				<title>Neues Jahr, neue Website!</title>
+				<link>http://localhost:4000/launch/</link>
+				<pubDate>Wed, 30 Dec 2015 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Wir stellen vor: die neue Website von Women in Black, auch genannt „die WIBseite“. Mit diesem Launch möchten wir mehr Inhalte an die Öffentlichkeit bringen und damit unsere Freude am Barbershop teilen.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/launch/</guid>
 			</item>
 		
 			<item>
-				<title>{ { post.title | xml_escape } }</title>
-				<link>{ { site.url } }{ { site.baseurl } }{ { post.url } }</link>
-				<pubDate>{ { post.date | date: "%a, %d %b %Y %H:%M:%S %z" } }</pubDate>
-				<description>{ { post.content | xml_escape } }</description>
-				<guid isPermaLink="true">{ { site.url } }{ { site.baseurl } }{ { post.url } }</guid>
+				<title>Coaching mit Sharon und Barry Towner</title>
+				<link>http://localhost:4000/sharonberry/</link>
+				<pubDate>Sat, 07 Nov 2015 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Bei den insgesamt drei Coachings mit Sharon und Barry Towner haben wir wieder viel gelernt.&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/sharonberry/</guid>
 			</item>
 		
 			<item>
-				<title>{ { post.title | xml_escape } }</title>
-				<link>{ { site.url } }{ { site.baseurl } }{ { post.url } }</link>
-				<pubDate>{ { post.date | date: "%a, %d %b %Y %H:%M:%S %z" } }</pubDate>
-				<description>{ { post.content | xml_escape } }</description>
-				<guid isPermaLink="true">{ { site.url } }{ { site.baseurl } }{ { post.url } }</guid>
+				<title>Women in Black empfängt Herrenbesuch</title>
+				<link>http://localhost:4000/herrenbesuch/</link>
+				<pubDate>Wed, 10 Dec 2014 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Women in Black empfängt Herrenbesuch - der Name war Programm bei dem gemeinsamen Barbershop-Konzert des Berliner Frauenchores Women in Black und des Münchner Männerchores errenbesuch am 10. Dezember 2014 in der American Church in Berlin. Die Damen unter der Leitung der kurzfristig eingesprungenen Francis Schmutzler begeisterten die rund 250 Zuschauer im ausverkauften Haus mit mitreißenden Barbershop-Klängen, während die Herren unter Hans-Jürgen Wieneke auf ihre nicht nur in der Branche bereits bekannte charmant-amüsante Art die Herzen der Konzertgäste eroberten.&lt;/p&gt;
+
+&lt;p&gt;Besondere Glanzlichter des von Kerstin Greaves vom Quartett Connections moderierten Abends waren die Auftritte der Berliner Quartette The Bees’ Knees und Connections und der Münchner Quartette Liedhaber und Rosenkavaliere. Am Rande sei erwähnt, dass Herrenbesuch sich auch für Filmaufnahmen für die Helene-Fischer-Show 2014 in der Bundeshauptstadt aufhielt. Kein Wunder, dass es beim Afterglow rund um die American Church in Berlin hieß: „Atemlos!“&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/herrenbesuch/</guid>
 			</item>
 		
 			<item>
-				<title>{ { post.title | xml_escape } }</title>
-				<link>{ { site.url } }{ { site.baseurl } }{ { post.url } }</link>
-				<pubDate>{ { post.date | date: "%a, %d %b %Y %H:%M:%S %z" } }</pubDate>
-				<description>{ { post.content | xml_escape } }</description>
-				<guid isPermaLink="true">{ { site.url } }{ { site.baseurl } }{ { post.url } }</guid>
+				<title>Deutschland Radio Features Women in Black</title>
+				<link>http://localhost:4000/deutschlandradio/</link>
+				<pubDate>Fri, 13 Jun 2014 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Die Women in Black wurden im Juni im Deutschlandradio als Chor der Woche vorgestellt. &lt;a href=&quot;http://www.deutschlandradiokultur.de/chor-der-woche-leiblich-und-weiblich.1153.de.html?dram:article_id=289049&quot;&gt;Hier&lt;/a&gt; geht’s zur Sendung.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/deutschlandradio/</guid>
 			</item>
 		
 			<item>
-				<title>{ { post.title | xml_escape } }</title>
-				<link>{ { site.url } }{ { site.baseurl } }{ { post.url } }</link>
-				<pubDate>{ { post.date | date: "%a, %d %b %Y %H:%M:%S %z" } }</pubDate>
-				<description>{ { post.content | xml_escape } }</description>
-				<guid isPermaLink="true">{ { site.url } }{ { site.baseurl } }{ { post.url } }</guid>
-			</item>
-		
-			<item>
-				<title>{ { post.title | xml_escape } }</title>
-				<link>{ { site.url } }{ { site.baseurl } }{ { post.url } }</link>
-				<pubDate>{ { post.date | date: "%a, %d %b %Y %H:%M:%S %z" } }</pubDate>
-				<description>{ { post.content | xml_escape } }</description>
-				<guid isPermaLink="true">{ { site.url } }{ { site.baseurl } }{ { post.url } }</guid>
-			</item>
-		
-			<item>
-				<title>{ { post.title | xml_escape } }</title>
-				<link>{ { site.url } }{ { site.baseurl } }{ { post.url } }</link>
-				<pubDate>{ { post.date | date: "%a, %d %b %Y %H:%M:%S %z" } }</pubDate>
-				<description>{ { post.content | xml_escape } }</description>
-				<guid isPermaLink="true">{ { site.url } }{ { site.baseurl } }{ { post.url } }</guid>
+				<title>Berliner Barbershop-Chor erhält „Crescendo-Preis“</title>
+				<link>http://localhost:4000/crescendo-preis/</link>
+				<pubDate>Sun, 23 Mar 2014 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Der Berliner Barbershop-Chor “Women in Black” ist bei einem bundesweiten Chorwettbewerb in Dortmund mit dem „Crescendo-Preis“ geehrt worden. Der Frauenchor unter der Leitung des ehemaligen stellvertretenden Direktors der John-F.-Kennedy-Schule in Berlin, Steven Hepner, trat im März beim Barbershop Musikfestival 2014 gegen elf Chöre aus Deutschland an und wurde für seine Leistungssteigerung seit dem letzten Wettbewerb vor zwei Jahren ausgezeichnet. “Wir sind sehr glücklich und hochmotiviert weiterzumachen”, sagte Hepner nach der Entscheidung der Jury am Samstag, dem 8. März 2014, in Dortmund.&lt;/p&gt;
+
+&lt;p&gt;Der deutsch-amerikanische Chor erreichte bei dem Barbershop Musikfestival 2014 im Konzerthaus Dortmund 65 Prozent in der Gesamtwertung, die sich aus den Kategorien Musik, Präsentation und Gesang zusammensetzt. Die 23 Sängerinnen zwischen 22 und 68 Jahren des Chores, der seit knapp drei Jahren besteht, steigerten sich damit um 7,4 Prozentpunkte gegenüber dem Ergebnis vom Frühling 2012 und belegten in der Gesamtwertung den zehnten Platz. Sieger des Wettbewerbs wurde „Ladies First“, ein Frauenchor aus Dortmund mit 80,2 Prozent, dicht gefolgt von den „Harmunichs“, einem ebenfalls weiblichen Chor aus München (78,5 Prozent). Den dritten Platz belegte „Herrenbesuch“, ein Männerchor aus München mit 74,8 Prozent.&lt;/p&gt;
+
+&lt;p&gt;Die Sängerinnen des Berliner Chores „Women in Black“ stammen aus dem Umfeld der Kennedy-Schule in Zehlendorf. Es handelt sich um Eltern, Lehrer, Nachbarn und Freunde der Schulgemeinschaft. Sie sangen bei dem A-cappella-Kontest im Konzerthaus Dortmund zwei Stücke – ohne Begleitung durch Musikinstrumente. Der Begriff Barbershop kommt aus den USA. Dabei handelt es sich um vierstimmigen A-cappella-Gesang, der sich Mitte des 19. Jahrhunderts in den USA entwickelte. Diese Musik ist im Laufe der vergangenen 20 Jahre in Deutschland immer populärer geworden, auch aufgrund der Arbeit des 1991 gegründeten Verbandes “BinG! Barbershop in Germany”. Die von internationalen Verbänden ausgebildeten Juroren der Wettbewerbe, die überwiegend aus den USA und Kanada stammen, bewerten neben der musikalischen Qualität auch die künstlerische Darstellung der Chöre.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/crescendo-preis/</guid>
 			</item>
 		
 	</channel>

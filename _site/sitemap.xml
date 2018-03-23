@@ -1,66 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- { { include.name } }: { { include.links | size } } links with priority={ { include.priority } }, changefreq={ { include.changefreq } } -->
+<!-- Pages: 23 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
+	<loc>http://localhost:4000/404.html</loc>
 	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
 	
 	
-		<priority>{ { include.priority } }</priority>
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
 	
 	</url>
 	
 
 	
 	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
+	<loc>http://localhost:4000/about/</loc>
 	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
 	
 	
-		<priority>{ { include.priority } }</priority>
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
 	
 	</url>
 	
 
 	
 	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
+	<loc>http://localhost:4000/blog/archive/</loc>
 	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
 	
 	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
+		<changefreq>monthly</changefreq>
 	
 	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
+		<priority>0.3</priority>
 	
 	</url>
 	
@@ -69,169 +52,15 @@
 
 	
 	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
+	<loc>http://localhost:4000/atom.xml</loc>
 	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
 	
 	
-		<changefreq>{ { include.changefreq } }</changefreq>
+		<changefreq>monthly</changefreq>
 	
 	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
+		<priority>0.3</priority>
 	
 	</url>
 	
@@ -240,228 +69,339 @@
 
 	
 	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
+	<loc>http://localhost:4000/contact/</loc>
 	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
 	
 	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { site.time | date_to_xmlschema } }</lastmod>
+		<changefreq>monthly</changefreq>
 	
 	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-
-<!-- { { include.name } }: { { include.links | size } } links with priority={ { include.priority } }, changefreq={ { include.changefreq } } -->
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { link.date | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
+		<priority>0.3</priority>
 	
 	</url>
 	
 
 	
 	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
+	<loc>http://localhost:4000/feed.xml</loc>
 	
-		<lastmod>{ { link.date | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
 	
 	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { link.date | date_to_xmlschema } }</lastmod>
+		<changefreq>monthly</changefreq>
 	
 	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
+		<priority>0.3</priority>
 	
 	</url>
 	
 
 	
 	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
+	<loc>http://localhost:4000/.htaccess</loc>
 	
-		<lastmod>{ { link.date | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
 	
 	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { link.date | date_to_xmlschema } }</lastmod>
+		<changefreq>monthly</changefreq>
 	
 	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
+		<priority>0.3</priority>
 	
 	</url>
 	
 
 	
 	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
+	<loc>http://localhost:4000/.htpasswd</loc>
 	
-		<lastmod>{ { link.date | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
 	
 	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { link.date | date_to_xmlschema } }</lastmod>
+		<changefreq>monthly</changefreq>
 	
 	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
+		<priority>0.3</priority>
 	
 	</url>
 	
 
 	
 	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
+	<loc>http://localhost:4000/humans.txt</loc>
 	
-		<lastmod>{ { link.date | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
 	
 	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { link.date | date_to_xmlschema } }</lastmod>
+		<changefreq>monthly</changefreq>
 	
 	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
+		<priority>0.3</priority>
 	
 	</url>
 	
 
 	
 	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
+	<loc>http://localhost:4000/blog/</loc>
 	
-		<lastmod>{ { link.date | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
 	
 	
-		<priority>{ { include.priority } }</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
-	
-		<lastmod>{ { link.date | date_to_xmlschema } }</lastmod>
+		<changefreq>monthly</changefreq>
 	
 	
-		<changefreq>{ { include.changefreq } }</changefreq>
-	
-	
-		<priority>{ { include.priority } }</priority>
+		<priority>0.3</priority>
 	
 	</url>
 	
 
 	
 	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
+	<loc>http://localhost:4000/</loc>
 	
-		<lastmod>{ { link.date | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
 	
 	
-		<priority>{ { include.priority } }</priority>
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
 	
 	</url>
 	
 
 	
 	<url>
-	<loc>{ { site.url } }{ { site.baseurl } }{ { link.url | remove: 'index.html' } }</loc>
+	<loc>http://localhost:4000/info/</loc>
 	
-		<lastmod>{ { link.date | date_to_xmlschema } }</lastmod>
-	
-	
-		<changefreq>{ { include.changefreq } }</changefreq>
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
 	
 	
-		<priority>{ { include.priority } }</priority>
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/media/</loc>
+	
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/redirect-page/</loc>
+	
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/robots.txt</loc>
+	
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/search/</loc>
+	
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/sitemap.xml</loc>
+	
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/page2/</loc>
+	
+		<lastmod>2017-04-29T20:42:20+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+
+<!-- Posts: 8 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/bonn/</loc>
+	
+		<lastmod>2017-04-28T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/thebside/</loc>
+	
+		<lastmod>2016-05-01T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/copenhagen/</loc>
+	
+		<lastmod>2016-02-04T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/launch/</loc>
+	
+		<lastmod>2015-12-30T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/sharonberry/</loc>
+	
+		<lastmod>2015-11-07T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/herrenbesuch/</loc>
+	
+		<lastmod>2014-12-10T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/deutschlandradio/</loc>
+	
+		<lastmod>2014-06-13T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/crescendo-preis/</loc>
+	
+		<lastmod>2014-03-23T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
 	
 	</url>
 	

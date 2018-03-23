@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" { { page.stylesheetAttributes } }>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" >
 <xsl:output method="html" encoding="utf-8" />
-<xsl:template match="{ { page.rootMatcher } }">
+<xsl:template match="/rss">
 	<xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html &gt;</xsl:text>
 	<html>
 	<head>
 		<xsl:text disable-output-escaping="yes"><![CDATA[
 		<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>{ { title } }</title>
-	<link rel="stylesheet" type="text/css" href="{ { url } }/assets/css/styles_feeling_responsive.css">
-	<script src="{ { url } }/assets/js/modernizr.min.js"></script>
+	<title>RSS Feed (Styled)</title>
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
+	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -27,7 +27,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="{ { description } }">
+	<meta name="description" content="Women In Black is a barbershop chorus in Berlin.">
   	
 	
 	
@@ -36,48 +36,48 @@
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="{ { title } }">
-	<meta property="og:description" content="{ { description } }">
-	<meta property="og:url" content="{ { url } }{ { page.url } }">
-	<meta property="og:locale" content="{ { site.og_locale } }">
+	<meta property="og:title" content="RSS Feed (Styled)">
+	<meta property="og:description" content="Women In Black is a barbershop chorus in Berlin.">
+	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
+	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="{ { site.title } }">
+	<meta property="og:site_name" content="Women In Black">
 	
 	
 
 
 	
 
-	<link type="text/plain" rel="author" href="{ { url} }/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="{ { site.url } }/assets/img/{ { site.favicon-32x32 } }">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="{ { site.url } }/assets/img/{ { site.touch-icon-192x192 } }">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/icon-144x144.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="{ { site.url } }/assets/img/{ { site.apple-touch-icon-180x180-precomposed } }">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="{ { site.url } }/assets/img/{ { site.apple-touch-icon-152x152-precomposed } }">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{ { site.url } }/assets/img/{ { site.apple-touch-icon-144x144-precomposed } }">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="{ { site.url } }/assets/img/{ { site.apple-touch-icon-120x120-precomposed } }">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{ { site.url } }/assets/img/{ { site.apple-touch-icon-114x114-precomposed } }">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="{ { site.url } }/assets/img/{ { site.apple-touch-icon-76x76-precomposed } }">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="{ { site.url } }/assets/img/{ { site.apple-touch-icon-72x72-precomposed } }">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="{ { site.url } }/assets/img/{ { site.apple-touch-icon-precomposed } }">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="{ { site.url } }/assets/img/{ { site.msapplication_tileimage } }">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/icon-144x144.png">
 
-	<meta name="msapplication-TileColor" content="{ { site.msapplication_tilecolor } }">
+	<meta name="msapplication-TileColor" content="#fabb00">
 
 
 	
@@ -90,7 +90,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="{ { site.url } }{ { site.baseurl } }" class="icon-tree"> { { site.title } }</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Women In Black</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -142,7 +142,7 @@
 
             
             
-              <li><a href="{ { domain } }{ { site.baseurl } }{ { link.url } }">{ { link.title | escape } }</a></li>
+              <li><a href="http://localhost:4000/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -157,7 +157,7 @@
 
             
             
-              <li><a href="{ { domain } }{ { site.baseurl } }{ { link.url } }">{ { link.title | escape } }</a></li>
+              <li><a href="http://localhost:4000/about/">About</a></li>
               <li class="divider"></li>
 
             
@@ -172,7 +172,7 @@
 
             
             
-              <li><a href="{ { domain } }{ { site.baseurl } }{ { link.url } }">{ { link.title | escape } }</a></li>
+              <li><a href="http://localhost:4000/media/">Media</a></li>
               <li class="divider"></li>
 
             
@@ -187,7 +187,7 @@
 
             
             
-              <li><a href="{ { domain } }{ { site.baseurl } }{ { link.url } }">{ { link.title | escape } }</a></li>
+              <li><a href="http://localhost:4000/blog/">Blog</a></li>
               <li class="divider"></li>
 
             
@@ -202,7 +202,7 @@
 
             
             
-              <li><a href="{ { domain } }{ { site.baseurl } }{ { link.url } }">{ { link.title | escape } }</a></li>
+              <li><a href="http://localhost:4000/contact/">Contact</a></li>
               <li class="divider"></li>
 
             
@@ -220,8 +220,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="{ { site.url } }" title="{ { site.title } } – { { site.slogan } }">
-				<img src="{ { site.url } }{ { site.baseurl } }/assets/img/{ { site.logo } }" alt="{ { site.title } } – { { site.slogan } }">
+			<a id="logo" href="http://localhost:4000" title="Women In Black – Women In Black, Berlin's Barbershop Chorus">
+				<img src="http://localhost:4000/assets/img/logo.png" alt="Women In Black – Women In Black, Berlin's Barbershop Chorus">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -237,12 +237,52 @@
 		
 
 
-<div class="alert-box { { entry[0] } } radius { { include.classes } }">{ { entry[1] | markdownify } }</div>
+<div class="alert-box warning radius text-center"><p>This <a href="https://en.wikipedia.org/wiki/RSS" target="_blank">RSS feed</a> is meant to be used by <a href="https://en.wikipedia.org/wiki/Template:Aggregators" target="_blank">RSS reader applications and websites</a>.</p>
+</div>
 
 
 
 		]]></xsl:text>
-		{ { content } }
+		<header class="t30 row">
+	<p class="subheadline"><xsl:value-of select="channel/description" disable-output-escaping="yes" /></p>
+	<h1>
+		<xsl:element name="a">
+			<xsl:attribute name="href">
+				<xsl:value-of select="channel/link" />
+			</xsl:attribute>
+			<xsl:value-of select="channel/title" disable-output-escaping="yes" />
+		</xsl:element>
+	</h1>
+</header>
+<ul class="accordion row" data-accordion="">
+	<xsl:for-each select="channel/item">
+		<li class="accordion-navigation">
+			<xsl:variable name="slug-id">
+				<xsl:call-template name="slugify">
+					<xsl:with-param name="text" select="guid" />
+				</xsl:call-template>
+			</xsl:variable>
+			<xsl:element name="a">
+				<xsl:attribute name="href"><xsl:value-of select="concat('#', $slug-id)"/></xsl:attribute>
+				<xsl:value-of select="title"/>
+				<br/>
+				<small><xsl:value-of select="pubDate"/></small>
+			</xsl:element>
+			<xsl:element name="div">
+				<xsl:attribute name="id"><xsl:value-of select="$slug-id"/></xsl:attribute>
+				<xsl:attribute name="class">content</xsl:attribute>
+				<h1>
+					<xsl:element name="a">
+						<xsl:attribute name="href"><xsl:value-of select="link"/></xsl:attribute>
+						<xsl:value-of select="title"/>
+					</xsl:element>
+				</h1>
+				<xsl:value-of select="description" disable-output-escaping="yes" />
+			</xsl:element>
+		</li>
+	</xsl:for-each>
+</ul>
+
 		<xsl:text disable-output-escaping="yes"><![CDATA[
 		    <div id="up-to-top" class="row">
       <div class="small-12 columns" style="text-align: right;">
@@ -255,11 +295,11 @@
       <div id="footer">
         <div class="row">
           <div class="medium-6 large-5 columns">
-            <h5 class="shadow-black">{ { site.data.language.info_website } }</h5>
+            <h5 class="shadow-black">Über diese Website</h5>
 
             <p class="shadow-black">
-              { { site.description } }
-              <a href="{ { site.url } }{ { site.baseurl } }/info/">{ { site.data.language.more } }</a>
+              Women In Black is a barbershop chorus in Berlin.
+              <a href="http://localhost:4000/info/">Mehr ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -276,7 +316,7 @@
           <div class="small-6 medium-3 large-3 columns">
             
               
-                <h5 class="shadow-black">{ { network_item.menu_name } }</h5>
+                <h5 class="shadow-black">Quick Links</h5>
               
             
               
@@ -288,17 +328,17 @@
             
               
                 <li >
-                  <a href="{ { domain } }{ { network_item.url } }"  title="{ { network_item.title } }">{ { network_item.name } }</a>
+                  <a href="http://localhost:4000"  title=""></a>
                 </li>
             
               
                 <li >
-                  <a href="{ { domain } }{ { network_item.url } }"  title="{ { network_item.title } }">{ { network_item.name } }</a>
+                  <a href="http://localhost:4000/contact/"  title="Contact">Contact</a>
                 </li>
             
               
                 <li >
-                  <a href="{ { domain } }{ { network_item.url } }"  title="{ { network_item.title } }">{ { network_item.name } }</a>
+                  <a href="http://localhost:4000/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                 </li>
             
             </ul>
@@ -311,17 +351,17 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            { { site.credits } }
+            
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             
-              <li><a href="{ { social_item.url } }" target="_blank" class="{ { social_item.class } }" title="{ { social_item.title } }"></a></li>
+              <li><a href="http://www.youtube.com/wibberlin" target="_blank" class="icon-youtube" title="watch our performances!"></a></li>
             
-              <li><a href="{ { social_item.url } }" target="_blank" class="{ { social_item.class } }" title="{ { social_item.title } }"></a></li>
+              <li><a href="http://twitter.com/wibchorus" target="_blank" class="icon-twitter" title="follow us!"></a></li>
             
-              <li><a href="{ { social_item.url } }" target="_blank" class="{ { social_item.class } }" title="{ { social_item.title } }"></a></li>
+              <li><a href="http://www.facebook.com/wibberlin" target="_blank" class="icon-facebook" title="like us!"></a></li>
             
             </ul>
           </section>
@@ -332,7 +372,7 @@
 		
 
 
-<script src="{ { site.url } }{ { site.baseurl } }/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
 
 
 

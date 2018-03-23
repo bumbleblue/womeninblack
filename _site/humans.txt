@@ -1,12 +1,8 @@
 /* TEAM */
 
-Name: { { author.name } }
-Site: { { author.uri } }
-Twitter: { { author.twitter } }
-
-Name: { { author.name } }
-
-Name: { { author.name } }
+Name: flapperleenie
+Site: http://eileenwagner.xyz
+Twitter: @flapperleenie
 
 
 /* THANKS */
@@ -17,7 +13,7 @@ Theme: http://phlow.github.io/feeling-responsive/
 
 /* SITE */
 
-Last Updated: { { site.time | date:"%Y/%m/%d" } }
+Last Updated: 2017/04/29
 Standards: HTML5, CSS3
 Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
 Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal
