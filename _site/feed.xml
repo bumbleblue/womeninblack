@@ -9,6 +9,62 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Open Rehearsal - offene Probe</title>
+				<link>http://localhost:4000/offene_Probe/</link>
+				<pubDate>Sun, 17 Dec 2017 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Women in Black is holding an open rehearsal to all interested women. You are invited to join us! We will have notes available for you to use during the rehearsal. Bring your enthusiasm and a bottle of water with you. We are looking forward to singing with you! Please contact us at WiBBerlin@gmail.com if you plan on coming.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When?&lt;/strong&gt;	  Monday, 22. January 2018, 7.30 p.m.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Where?&lt;/strong&gt;    Meet at at the front gate of the John F. Kennedy School, Teltower Damm 87-93, 14167 Berlin&lt;/p&gt;
+
+&lt;p&gt;Women in Black bietet eine offene Probe für alle interessierten Frauen an. Ihr seid herzlich eingeladen mit uns zu proben. Noten werden Euch in der Probe zur Verfügung gestellt. Bringt Eure Begeisterung und eine Flasche Wasser mit. Wir freuen uns darauf mit Euch zu singen! Bitte meldet Euch unter WiBBerlin@gmail.com an, wenn Ihr teilnehmen möchtet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wann?&lt;/strong&gt;	 Montag, 22. Januar 2018, 19.30 Uhr&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wo?&lt;/strong&gt;		 Treffen am Haupteingang der John-F.-Kennedy-Schule, Teltower Damm 87-93, 14167 Berlin&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/offene_Probe/</guid>
+			</item>
+		
+			<item>
+				<title>Merry Christmas!</title>
+				<link>http://localhost:4000/Merry-Christmas/</link>
+				<pubDate>Tue, 12 Dec 2017 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Last night, we gathered to celebrate Christmas in Charlottenburg. A good time was had by all, caroling, eating, and enjoying each other’s company.&lt;/p&gt;
+
+&lt;p&gt;May all our friends near and far have a merry Christmas!&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/Merry-Christmas/</guid>
+			</item>
+		
+			<item>
+				<title>Goodbye, Steve</title>
+				<link>http://localhost:4000/Goodbye_Steve/</link>
+				<pubDate>Sun, 12 Nov 2017 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Yesterday we said our final goodbyes to Steve at his wake. Thank you for your inspiration, encouragement, and love. Your spirit will live on in our hearts!&lt;/p&gt;
+
+&lt;p&gt;In harmony and with love and laughter, your Women in Black&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/Goodbye_Steve/</guid>
+			</item>
+		
+			<item>
+				<title>Steve Hepner Steps Down</title>
+				<link>http://localhost:4000/steve_steps_down/</link>
+				<pubDate>Wed, 11 Oct 2017 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Der Gründer und langjährige Leiter des Barbershop-Chores Women in Black, Steve Hepner, ist aus gesundheitlichen Gründen zurückgetreten und hat den Chor seiner bisherigen Stellvertreterin Francis Schmutzler übergeben.&lt;/p&gt;
+
+&lt;p&gt;Die Sängerinnen bedanken sich bei Steve für die Gründung des ersten Barbershop-Chores in Berlin. Und sie bedanken sich für die Begeisterung, mit der Steve in unzähligen Stunden, mit unermüdlichem Einsatz, bei jeder Probe und in absoluter Präzision das musikalische Ziel verfolgt hat: den „perfect pitch“. Thank you, Steve!&lt;/p&gt;
+
+&lt;p&gt;Due to struggles with his health, the founder of Women in Black and long-time leader, Steve Hepner, has resigned as Musical Director. In his stead, Francis Schmutzler is taking over the position.&lt;/p&gt;
+
+&lt;p&gt;We singers would like to thank Steve for founding Berlin’s first barbershop chorus. Words can hardly express our gratitude for the enthusiasm he dedicated to pursuing our musical goal of “perfect pitch.”– in countless hours, with tireless commitment, at every rehearsal and with absolute precision.  Thank you, Steve!&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/steve_steps_down/</guid>
+			</item>
+		
+			<item>
 				<title>SISTERS ARE DOIN‘ IT! Barbershop im Doppelpack</title>
 				<link>http://localhost:4000/bonn/</link>
 				<pubDate>Fri, 28 Apr 2017 00:00:00 +0200</pubDate>
@@ -27,6 +83,22 @@
 &lt;p&gt;Tickethotline: 02 28 – 50 20 10, evtl. Restkarten an der Abendkasse&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">http://localhost:4000/bonn/</guid>
+			</item>
+		
+			<item>
+				<title>EUROPEAN HARMONY BRIGADE</title>
+				<link>http://localhost:4000/EHB/</link>
+				<pubDate>Sun, 23 Apr 2017 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Women in Black is sending a handful of representatives to sing in community with over 80 barbershop quartet singers from all over Europe and the United States. Come to the final concert to witness world class quartets singing: Trocadero from Sweden, Maelstrom from the Netherleands, and Deke Sharon from the US. It’ll be an a cappella dream come true!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wann?&lt;/strong&gt;	 Samstag, 17. Juni 2017, 19.30 Uhr (Einlass 19.00 Uhr)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wo?&lt;/strong&gt;		 Heilig-Kreuz-Kirche, Zossener Strasse 65, 10961 Berlin&lt;/p&gt;
+
+&lt;p&gt;Tickets (18,- € / 12,- € erm., Abendkasse 20,- € / 15,- € erm.) über &lt;a href=&quot;http://europeanharmonybrigade.eventbrite.de&quot;&gt;Eventbrite&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/EHB/</guid>
 			</item>
 		
 			<item>
@@ -75,39 +147,6 @@
 
 </description>
 				<guid isPermaLink="true">http://localhost:4000/sharonberry/</guid>
-			</item>
-		
-			<item>
-				<title>Women in Black empfängt Herrenbesuch</title>
-				<link>http://localhost:4000/herrenbesuch/</link>
-				<pubDate>Wed, 10 Dec 2014 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;Women in Black empfängt Herrenbesuch - der Name war Programm bei dem gemeinsamen Barbershop-Konzert des Berliner Frauenchores Women in Black und des Münchner Männerchores errenbesuch am 10. Dezember 2014 in der American Church in Berlin. Die Damen unter der Leitung der kurzfristig eingesprungenen Francis Schmutzler begeisterten die rund 250 Zuschauer im ausverkauften Haus mit mitreißenden Barbershop-Klängen, während die Herren unter Hans-Jürgen Wieneke auf ihre nicht nur in der Branche bereits bekannte charmant-amüsante Art die Herzen der Konzertgäste eroberten.&lt;/p&gt;
-
-&lt;p&gt;Besondere Glanzlichter des von Kerstin Greaves vom Quartett Connections moderierten Abends waren die Auftritte der Berliner Quartette The Bees’ Knees und Connections und der Münchner Quartette Liedhaber und Rosenkavaliere. Am Rande sei erwähnt, dass Herrenbesuch sich auch für Filmaufnahmen für die Helene-Fischer-Show 2014 in der Bundeshauptstadt aufhielt. Kein Wunder, dass es beim Afterglow rund um die American Church in Berlin hieß: „Atemlos!“&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/herrenbesuch/</guid>
-			</item>
-		
-			<item>
-				<title>Deutschland Radio Features Women in Black</title>
-				<link>http://localhost:4000/deutschlandradio/</link>
-				<pubDate>Fri, 13 Jun 2014 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;Die Women in Black wurden im Juni im Deutschlandradio als Chor der Woche vorgestellt. &lt;a href=&quot;http://www.deutschlandradiokultur.de/chor-der-woche-leiblich-und-weiblich.1153.de.html?dram:article_id=289049&quot;&gt;Hier&lt;/a&gt; geht’s zur Sendung.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/deutschlandradio/</guid>
-			</item>
-		
-			<item>
-				<title>Berliner Barbershop-Chor erhält „Crescendo-Preis“</title>
-				<link>http://localhost:4000/crescendo-preis/</link>
-				<pubDate>Sun, 23 Mar 2014 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;Der Berliner Barbershop-Chor “Women in Black” ist bei einem bundesweiten Chorwettbewerb in Dortmund mit dem „Crescendo-Preis“ geehrt worden. Der Frauenchor unter der Leitung des ehemaligen stellvertretenden Direktors der John-F.-Kennedy-Schule in Berlin, Steven Hepner, trat im März beim Barbershop Musikfestival 2014 gegen elf Chöre aus Deutschland an und wurde für seine Leistungssteigerung seit dem letzten Wettbewerb vor zwei Jahren ausgezeichnet. “Wir sind sehr glücklich und hochmotiviert weiterzumachen”, sagte Hepner nach der Entscheidung der Jury am Samstag, dem 8. März 2014, in Dortmund.&lt;/p&gt;
-
-&lt;p&gt;Der deutsch-amerikanische Chor erreichte bei dem Barbershop Musikfestival 2014 im Konzerthaus Dortmund 65 Prozent in der Gesamtwertung, die sich aus den Kategorien Musik, Präsentation und Gesang zusammensetzt. Die 23 Sängerinnen zwischen 22 und 68 Jahren des Chores, der seit knapp drei Jahren besteht, steigerten sich damit um 7,4 Prozentpunkte gegenüber dem Ergebnis vom Frühling 2012 und belegten in der Gesamtwertung den zehnten Platz. Sieger des Wettbewerbs wurde „Ladies First“, ein Frauenchor aus Dortmund mit 80,2 Prozent, dicht gefolgt von den „Harmunichs“, einem ebenfalls weiblichen Chor aus München (78,5 Prozent). Den dritten Platz belegte „Herrenbesuch“, ein Männerchor aus München mit 74,8 Prozent.&lt;/p&gt;
-
-&lt;p&gt;Die Sängerinnen des Berliner Chores „Women in Black“ stammen aus dem Umfeld der Kennedy-Schule in Zehlendorf. Es handelt sich um Eltern, Lehrer, Nachbarn und Freunde der Schulgemeinschaft. Sie sangen bei dem A-cappella-Kontest im Konzerthaus Dortmund zwei Stücke – ohne Begleitung durch Musikinstrumente. Der Begriff Barbershop kommt aus den USA. Dabei handelt es sich um vierstimmigen A-cappella-Gesang, der sich Mitte des 19. Jahrhunderts in den USA entwickelte. Diese Musik ist im Laufe der vergangenen 20 Jahre in Deutschland immer populärer geworden, auch aufgrund der Arbeit des 1991 gegründeten Verbandes “BinG! Barbershop in Germany”. Die von internationalen Verbänden ausgebildeten Juroren der Wettbewerbe, die überwiegend aus den USA und Kanada stammen, bewerten neben der musikalischen Qualität auch die künstlerische Darstellung der Chöre.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/crescendo-preis/</guid>
 			</item>
 		
 	</channel>
