@@ -25,3 +25,14 @@ collections:
       - {label: "Thumbnail", name: "thumb", widget: "image"}
       - {label: "Featured", name: "homepage", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "page" # Used in routes, e.g., /admin/collections/blog
+    label: "Page" # Used in the UI
+    folder: "pages" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "subheadline", widget: "string"}
+      - {label: "Header image", name: "header", widget: "image"}
+      - {label: "Teaser", name: "teaser", widget: "string"}
