@@ -230,7 +230,7 @@
   "options": {
     "autowidth": false,
     "config": "fontcustom.yml",
-    "css_selector": ".icon-{{glyph}}",
+    "css_selector": ".icon-{ {glyph} }",
     "debug": false,
     "font_ascent": 448,
     "font_descent": 64,

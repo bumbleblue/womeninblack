@@ -16,9 +16,9 @@ widget3:
   title: "Upcoming Events"
   url: '/about/events/'
   image: unsplash_calendar.jpg
-  text: '<a href="{{ site.url }}/about/events/#christmas-party">14.12.15 <strong>Christmas Party</strong></a>
+  text: '<a href="{ { site.url } }/about/events/#christmas-party">14.12.15 <strong>Christmas Party</strong></a>
   <br/>
-  <a href="{{ site.url }}{{ site.baseurl }}/about/events/#jfks-verein-gig">14.01.16 <strong>JFKS Verein</strong></a>
+  <a href="{ { site.url } }{ { site.baseurl } }/about/events/#jfks-verein-gig">14.01.16 <strong>JFKS Verein</strong></a>
   <br/>04.-06.03.16 <strong>Barbershop Musik Festival</strong>'
 permalink: /index.html
 homepage: true
