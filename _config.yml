@@ -24,7 +24,7 @@ improve_content: https://github.com/bumbleblue/womeninblack
 # Example: <img src="{ { site.urlimg }}{ { post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({ { site.urlimg }}image.jpg)
 #
-urlimg: 'http://womeninblack.de/images/'
+urlimg: 'https://womeninblack.de/images/'
 
 
 # Logo size is 600x80 pixels

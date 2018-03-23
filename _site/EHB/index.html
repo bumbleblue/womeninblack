@@ -20,6 +20,8 @@
 		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
 	</noscript>
 
+	<!-- Netlify CMS -->
+	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 	<!-- Search Engine Optimization -->
 	<meta name="description" content="Dritte European Harmony Brigade in Berlin">
@@ -463,7 +465,19 @@
 
 
 
+<!-- Netlify CMS -->
 
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 
 

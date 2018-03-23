@@ -31,6 +31,19 @@ $('audio,video').mediaelementplayer();
 </script>
 {% endif %}
 
+<!-- Netlify CMS -->
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 
 {% comment %}
@@ -52,4 +65,3 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 {% endif %}
-
