@@ -1,8 +1,0 @@
----
-layout: null
-permalink: .htaccess
----
-AuthType Basic
-AuthName "WIB Intern"
-AuthUserFile .htpasswd
-Require valid-user
